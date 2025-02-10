@@ -1,0 +1,14 @@
+blinker @ file:///C:/b/abs_b1i87khtob/croot/blinker_1737448732095/work
+click @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/click_1729040674118/work
+colorama @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/colorama_1729036581634/work
+Flask @ file:///C:/b/abs_a6m37uz578/croot/flask_1737454335662/work
+itsdangerous @ file:///C:/Users/dev-admin/buildout/croot/itsdangerous_1732929022589/work
+Jinja2 @ file:///C:/b/abs_10zs3i4lof/croot/jinja2_1737760123028/work
+MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730824198951/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730824302834/work
+numpy @ file:///C:/b/abs_56qrev29w_/croot/numpy_and_numpy_base_1738155838326/work/dist/numpy-2.2.2-cp313-cp313-win_amd64.whl#sha256=d740a4ea626e7bf6bf00c35764dc7aa8b81bd2db69d2c126d9f0969e39f92578
+setuptools==72.1.0
+Werkzeug @ file:///C:/b/abs_c7bupijx2_/croot/werkzeug_1737448709012/work
+wheel==0.44.0
