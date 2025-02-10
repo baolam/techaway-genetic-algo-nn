@@ -1,0 +1,29 @@
+{
+  "name": "server-management-about-genetic-algorithm-neural-network",
+  "version": "1.0.0",
+  "description": "Server quản lí",
+  "keywords": [
+    "genetic-algorithm",
+    "thuật",
+    "toán",
+    "di",
+    "truyền",
+    "neural",
+    "network"
+  ],
+  "homepage": "https://github.com/baolam/techaway-genetic-algo-nn#readme",
+  "bugs": {
+    "url": "https://github.com/baolam/techaway-genetic-algo-nn/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baolam/techaway-genetic-algo-nn.git"
+  },
+  "license": "ISC",
+  "author": "Nguyễn Đức Bảo Lâm",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
