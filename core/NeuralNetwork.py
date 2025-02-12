@@ -5,6 +5,7 @@ class NeuralNetwork:
     A simple neural network, use to simulate the behavior of creature.
     Can be viewed as a strategy.
     """
+    
     HIDDEN_SIZE = 4
 
     def __init__(self, input_dim, output_dim):
@@ -23,7 +24,7 @@ class NeuralNetwork:
     def output_dim(self):
         return self.__output_dim
     
-    def predict(self, x):
+    def predict(self, x) -> np.ndarray:
         """
         Predict the output of the network given the input x.
         """
