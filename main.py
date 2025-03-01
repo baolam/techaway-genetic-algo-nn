@@ -51,7 +51,7 @@ class FindStrategy:
                 "energy_level" : strategy[1]
             },
             "creature_id" : _id,
-            "adn" : creature.weight(),
+            "adn" : creature.adn(),
             "generation" : creature.generation_number,
             "ancestors" : creature.ancestors,
             "fitness" : fitness_function(self.environment, strategy)

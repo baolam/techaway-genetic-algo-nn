@@ -16,6 +16,12 @@ class NeuralNetwork:
         self.__w1 = np.random.randn(input_dim, self.HIDDEN_SIZE)
         self.__w2 = np.random.randn(self.HIDDEN_SIZE, output_dim)
 
+        ### Thông tin về số chiều của w1, w2
+        # self._w1_shape = self.__w1.shape
+        # self._w2_shape = self.__w2.shape
+        # self._w1_flatten = self.__w1.reshape(-1).shape
+        # self._w2_flatten = self.__w2.reshape(-1).shape
+
     @property
     def input_dim(self):
         return self.__input_dim
@@ -40,6 +46,9 @@ class NeuralNetwork:
         lst += self.__w2.reshape(-1).tolist()
         return lst
     
-    def update_weight(self, w1, w2):
-        self.__w1 = w1
-        self.__w2 = w2
+    def update_weight(self, infor):
+        slice_position = self.input_dim * self.HIDDEN_SIZE
+        w1 = infor[:slice_position]
+        w2 = infor[slice_position:]
+        self.__w1 = np.array(w1).reshape((self.input_dim, self.HIDDEN_SIZE))
+        self.__w2 = np.array(w2).reshape((self.HIDDEN_SIZE, self.output_dim))
