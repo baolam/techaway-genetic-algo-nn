@@ -7,6 +7,7 @@ from flask import Flask
 from core.Creature import Creature
 from core.Environment import Environment
 from core.constant import NUM_CREATURES
+from core.ga.fitness import fitness_function
 
 class FindStrategy:
     def __init__(self, srv):
@@ -42,11 +43,21 @@ class FindStrategy:
         strategy = creature.survive(
             self.environment.input_params()
         )
-        self.srv.emit("creature_strategy", { "id" : _id, "strategy" : {
-            "should_fight" : strategy[2],
-            "food_sense" : strategy[0],
-            "energy_level" : strategy[1]
-        } })
+
+        infor = {
+            "strategy" : {
+                "should_fight" : strategy[2],
+                "food_sense" : strategy[0],
+                "energy_level" : strategy[1]
+            },
+            "creature_id" : _id,
+            "adn" : creature.weight(),
+            "generation" : creature.generation_number,
+            "ancestors" : creature.ancestors,
+            "fitness" : fitness_function(self.environment, strategy)
+        }
+
+        self.srv.emit("creature_strategy", infor)
 
 
 sio = socketio.Server()

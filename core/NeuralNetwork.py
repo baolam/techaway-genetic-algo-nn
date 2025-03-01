@@ -35,7 +35,10 @@ class NeuralNetwork:
 
     @property
     def get_weight(self):
-        return self.__w1, self.__w2
+        lst = []
+        lst += self.__w1.reshape(-1).tolist() 
+        lst += self.__w2.reshape(-1).tolist()
+        return lst
     
     def update_weight(self, w1, w2):
         self.__w1 = w1
