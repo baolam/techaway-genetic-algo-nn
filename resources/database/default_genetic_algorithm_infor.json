@@ -1,0 +1,6 @@
+{
+    "mutation_rate" : 0.2,
+    "cross_over_rate" : 0.2,
+    "remove_creature_rate" : 0.1,
+    "remove_stochastic_rate" : 0.7
+}

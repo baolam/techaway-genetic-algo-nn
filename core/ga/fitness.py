@@ -37,11 +37,11 @@ def fitness_function(environment : Environment, strategy):
     # Tính điểm fitness
     fitness = (
         w_energy * energy_level +
-        w_food * food_sense -
+        w_fight * should_fight +
+        w_food * food_sense - 
         w_rain * (rainfall / 50000) -  # Chuẩn hóa lượng mưa
         w_pressure * ((1000 - atmos_pressure) / 200) -  # Chuẩn hóa áp suất
-        w_adverse * adverse_score +
-        w_fight * should_fight
+        w_adverse * adverse_score
     )
 
     return fitness

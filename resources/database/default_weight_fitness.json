@@ -1,8 +1,8 @@
 {
     "w_energy" : 3.0,
     "w_food" : 2.0,
+    "w_fight" : 1.5,
     "w_rain" : 1.0,
     "w_pressure" : 1.5,
-    "w_adverse" : 1.2,
-    "w_fight" : 1.0
+    "w_adverse" : 1.2
 }

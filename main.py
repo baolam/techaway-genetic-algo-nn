@@ -59,7 +59,6 @@ class FindStrategy:
 
         self.srv.emit("creature_strategy", infor)
 
-
 sio = socketio.Server()
 app = Flask(__name__)
 strategy = FindStrategy(sio)

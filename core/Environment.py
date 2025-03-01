@@ -27,14 +27,14 @@ class Environment:
             return "Nhiệt độ không thể âm!"
         if temp > 100:
             return "Nhiệt độ không quá 100!"
-        self.temperature = temp / 100
+        self.temperature = temp
     
     def update_humidity(self, humidity):
         if humidity < 0:
             return "Độ ẩm không thể âm!"
         if humidity > 100:
             return "Độ ẩm không quá 100%"
-        self.humidity = humidity / 100
+        self.humidity = humidity
     
     def update_percentage_food(self, percen):
         if percen < 0:
@@ -46,9 +46,9 @@ class Environment:
     def update_rainfall(self, rainfall):
         if rainfall < 0.5:
             return "Lượng mưa dưới 0.5mm (giá trị nhỏ nhất)"
-        if rainfall > 26000:
-            return "Lượng mưa trên 26000mm (giá trị lớn nhất)"
-        self.rain = rainfall / 26000
+        # if rainfall > 26000:
+        #     return "Lượng mưa trên 26000mm (giá trị lớn nhất)"
+        self.rain = rainfall
     
     def update_wind_speed(self, wind_speed):
         if wind_speed < 0:
@@ -58,16 +58,16 @@ class Environment:
     def update_atmospheric_pressure(self, atmos):
         if atmos < 840:
             return "Áp suất không khí dưới 840 hPa (giá trị nhỏ nhất)"
-        if atmos > 1084.8:
-            return "Áp suất không khí trên 1084.8 hPa (giá trị lớn nhất)"
-        self.atmos_pressure = atmos / 1084.8
+        # if atmos > 1084.8:
+        #     return "Áp suất không khí trên 1084.8 hPa (giá trị lớn nhất)"
+        self.atmos_pressure = atmos
 
     def update_ph(self, ph):
         if ph < 0:
             return "Độ PH không thể âm!"
         if ph > 14:
             return "Độ PH không quá 14"
-        self.ph = ph / 14
+        self.ph = ph
     
     def update_energy(self, energy):
         if energy < 0:
