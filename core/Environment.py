@@ -10,7 +10,7 @@ class Environment:
         self.humidity = 0.5
         self.percen_foods = 0.25
         self.rainfall = 0.25
-        self.atmos_pressure = 30
+        self.atmos_pressure = 0.45
         self.wind_speed = 15
         self.ph = 7
         self.energy = 1000

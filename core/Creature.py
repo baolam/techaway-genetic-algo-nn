@@ -12,9 +12,10 @@ class Creature:
     A class representing a creature in the environment
     """
 
-    def __init__(self):
+    def __init__(self, id):
         self.__strategy = NeuralNetwork(NUM_INPUTS, NUM_OUTPUTS)
-    
+        self.id = id
+
     def survive(self, x) -> List[float]:
         z = self.__strategy.predict(x)
         

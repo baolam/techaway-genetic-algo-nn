@@ -1,0 +1,7 @@
+Thuật toán di truyền
+
+Một số phương thức như
+- Mutation
+- Crossover
+- Selection
+- Fitness
