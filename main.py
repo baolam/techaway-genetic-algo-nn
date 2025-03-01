@@ -1,28 +1,29 @@
-import asyncio
-import websockets
-from core.Environment import Environment
-from core.Creature import Creature
-from core.constant import NUM_CREATURES
-from core.constant import WS_HOST
+import socketio
+import eventlet
+import eventlet.wsgi
+from flask import Flask
 
-stop_program = False
+sio = socketio.Server()
+app = Flask(__name__)
 
-class RunAlgorithm:
-    def __init__(self):
-        self.env = Environment()
-        self.creatures = [ Creature() for __ in range(NUM_CREATURES) ]
-        self.client = None
-    
-    def initalize_client(self, client : websockets.ClientConnection):
-        self.client = client
+@app.route('/')
+def index():
+    return "Socket.IO server is running."
 
-    def run(self):
-        pass
+@sio.on('connect')
+def connect(sid, environ):
+    print('Client connected:', sid)
+    sio.emit('message', 'Hello, client!', room=sid)
 
-algorithm = RunAlgorithm()
+@sio.on('disconnect')
+def disconnect(sid):
+    print('Client disconnected:', sid)
 
-async def connect_host():
-    async with websockets.connect(WS_HOST) as websocket:
-        algorithm.initalize_client(websocket)
+@sio.on('message')
+def message(sid, data):
+    print('Message from client:', data)
+    sio.emit('message', f"Echo: {data}", room=sid)
 
-asyncio.run(connect_host())
+if __name__ == '__main__':
+    app = socketio.Middleware(sio, app)
+    eventlet.wsgi.server(eventlet.listen(('localhost', 5000)), app)

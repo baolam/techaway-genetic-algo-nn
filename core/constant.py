@@ -12,4 +12,4 @@ FIGHTING_THRESHOLD = 0.4
 NUM_CREATURES = 100
 
 # Server xử lí chính
-WS_HOST = "ws://localhost:8080"
+# WS_HOST = "ws://localhost:8080"

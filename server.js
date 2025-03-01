@@ -1,7 +1,7 @@
 const express = require("express");
 const http = require("http");
 const ip = require("ip");
-const ws = require("ws");
+const io = require("socket.io-client");
 
 const PORT = process.env.PORT || 3000;
 const HOST = process.env.HOST || "0.0.0.0";
@@ -9,13 +9,10 @@ const IP_ADDRESS = `${ip.address()}:${PORT}`;
 
 const app = express();
 const server = http.createServer(app);
+const algorithm = io("http://localhost:5000");
 
-const wss = new ws.Server({ port: 8080 });
-wss.on("connection", (socket, req) => {
-  console.log(`Algorithm ready!`);
-  setTimeout(() => {
-    socket.send("STOP");
-  }, 10000);
+algorithm.on("connect", () => {
+  console.log("Connected to server!");
 });
 
 server.listen(PORT, () => {
