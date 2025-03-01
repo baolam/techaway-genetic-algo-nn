@@ -1,6 +1,6 @@
 import json
 from typing import List
-from .fitness import fitness_function
+from tqdm import tqdm
 from .evaluate import evaluate
 from .selection import selection
 from .crossover import crossover
@@ -28,17 +28,24 @@ class GeneticAlgorithm:
             child = crossover(keep, self.__adn_length, int(removed_creature.id), generation)
             children.append(child)
 
-        keep += children
+        creatures = keep + children
         
-        keep, __ = mutate(keep, self.__config["mutation_rate"], self.__adn_length)
-        self.__creatures = keep
+        creatures, __ = mutate(creatures, self.__config["mutation_rate"], self.__adn_length)
+        self.__creatures = creatures
 
         _best_score = _fitness_score[0][0]
         return _best_score
     
-    def run_through_generation(self, generations):
+    def run_through_generation(self, generations, show : bool = False):
         fitness_scores = []
-        for generation in range(generations):
+        if show:
+            _tmp = tqdm(range(generations), desc="Generation")
+        else:
+            _tmp = range(generations)
+        for generation in _tmp:
             fitness_score = self.run_on_one_generation(generation)
             fitness_scores.append(fitness_score)
         return fitness_scores
+    
+    def get_creatures(self):
+        return self.__creatures

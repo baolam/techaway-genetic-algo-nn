@@ -35,3 +35,6 @@ class Creature:
     
     def update_adn(self, adn):
         self.__strategy.update_weight(adn)
+    
+    def __lt__(self, other):
+        return self.generation_number < other.generation_number
