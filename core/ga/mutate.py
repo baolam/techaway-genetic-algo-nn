@@ -11,7 +11,7 @@ def mutate(creatures : List[Creature], mutation_rate : float, adn_length : int):
         # Chọn vị trí đột biến
         gene_index = random.randint(0, adn_length - 1)
         # Đột biến
-        value = random.choice([0, 1])
+        value = random.uniform(-1, 1)
         # Truy xuất adn
         adn = creature.adn()
         adn[gene_index] = value

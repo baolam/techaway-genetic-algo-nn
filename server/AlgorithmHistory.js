@@ -1,9 +1,9 @@
 const path = require("path");
 const fs = require("fs");
+const scope =
+  require("../resources/database/general_config.json").num_saved_generation;
 
 class AlgorithmHistory {
-  SCOPE = 15;
-
   constructor(saved_folder) {
     this.__saved_path = path.join("./resources/database", saved_folder);
     this.__possible = true;
@@ -27,7 +27,7 @@ class AlgorithmHistory {
     const ancestors = {};
 
     /// Chỉ lấy tổ tiên 10 thế hệ cuối
-    for (let i = generations - this.SCOPE; i <= generations; i++) {
+    for (let i = generations - scope; i <= generations; i++) {
       const generation = require("../" +
         path.join(this.__saved_path, i.toString() + ".json"));
       const population = generation.final_population;

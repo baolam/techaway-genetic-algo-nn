@@ -19,7 +19,9 @@ class GeneticAlgorithm:
         
         with open("resources/database/default_genetic_algorithm_infor.json", "rb") as f:
             self.__config = json.load(f)
-        
+        with open("resources/database/general_config.json", "rb") as f:
+            self.__num_generations = json.load(f)["num_saved_generation"]
+
         self.__adn_length = len(creatures[0].adn())
     
     def run_on_one_generation(self, generation):
@@ -47,6 +49,7 @@ class GeneticAlgorithm:
 
         _best_score = _fitness_score[0][0]
         generation_infor["best_fitness"] = _best_score
+        generation_infor["best_creature"] = _fitness_score[0][1].infor()
 
         return generation_infor
     
@@ -66,7 +69,10 @@ class GeneticAlgorithm:
             if on_callback_step:
                 on_callback_step(infor, generation)
 
-            
+            if generation >= generations - self.__num_generations:
+                file_name = os.path.join(folder_name, f"{generation}.json")
+                with open(file_name, "w") as file:
+                    json.dump(infor, file, indent=4)
 
         overall = os.path.join(folder_name, "overall.json")
         with open(overall, "w") as f:
