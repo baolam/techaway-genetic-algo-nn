@@ -62,6 +62,13 @@ class FindStrategy:
 
         self.srv.emit("creature_strategy", infor)
 
+    def run_algorithm(self, data):
+        saved_at = data["saved_at"]
+        generations = data["generations"]
+
+        ga = GeneticAlgorithm(self.creatures, self.environment)
+        ga.run_through_generation(generations, saved_at, show=True)
+
 sio = socketio.Server()
 app = Flask(__name__)
 strategy = FindStrategy(sio)

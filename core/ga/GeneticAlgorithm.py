@@ -66,9 +66,7 @@ class GeneticAlgorithm:
             if on_callback_step:
                 on_callback_step(infor, generation)
 
-            file_name = os.path.join(folder_name, str(generation) + '.json')
-            with open(file_name, 'w') as f:
-                json.dump(infor, f, indent=4)
+            
 
         overall = os.path.join(folder_name, "overall.json")
         with open(overall, "w") as f:

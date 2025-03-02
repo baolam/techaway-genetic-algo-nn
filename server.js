@@ -75,6 +75,22 @@ app.get("/algorithm/result/environment", (req, res) => {
   res.send(algorithmatic_history.get_environment_infor());
 });
 
+app.get("/algorithm/result/creature", (req, res) => {
+  const folder = req.query.of;
+  if (folder === undefined) {
+    return res.status(400).send("Folder is empty!");
+  }
+
+  const creature = req.query.creature;
+  if (creature === undefined) {
+    return res.status(400).send("Creature is undefined!");
+  }
+
+  const algorithmatic_history = new AlgorithmHistory(folder);
+  const infor = algorithmatic_history.get_creature_infor(creature);
+  res.send(infor);
+});
+
 app.get("/stop-program", (req, res) => {
   algorithm.emit("stop-program");
   res.send("A program stopped!");
