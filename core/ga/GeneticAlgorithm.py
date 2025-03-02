@@ -49,7 +49,7 @@ class GeneticAlgorithm:
 
         _best_score = _fitness_score[0][0]
         generation_infor["best_fitness"] = _best_score
-        generation_infor["best_creature"] = _fitness_score[0][1].infor()
+        generation_infor["best_creature"] = _fitness_score[0][1].id
 
         return generation_infor
     

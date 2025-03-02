@@ -86,10 +86,18 @@ class AlgorithmHistory {
     }
   }
 
-  #_retrieveAncestor(creature_infor, generation_code, range, ancestor_infor) {
+  #_retrieveAncestor(
+    creature_infor,
+    generation_code,
+    range,
+    ancestor_infor,
+    visited = {}
+  ) {
     if (generation_code < range[0] || generation_code > range[1]) {
       return {};
     }
+
+    if (visited[creature_infor.id]) return {};
 
     const ancestors = creature_infor.ancestors;
     if (ancestors === undefined) return {};
@@ -108,13 +116,13 @@ class AlgorithmHistory {
     const results = {
       [ancestors[0]]: this.#_retrieveAncestor(
         parent1,
-        parent1.generation,
+        parent1.generation - 1,
         range,
         ancestor_infor
       ),
       [ancestors[1]]: this.#_retrieveAncestor(
         parent2,
-        parent2.generation,
+        parent2.generation - 1,
         range,
         ancestor_infor
       ),
