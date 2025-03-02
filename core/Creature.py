@@ -11,11 +11,12 @@ class Creature:
     A class representing a creature in the environment
     """
 
-    def __init__(self, id, generation_number = 0, adn : List[float] = None):
+    def __init__(self, id, generation_number = 1, adn : List[float] = None):
         self.__strategy = NeuralNetwork(NUM_INPUTS, NUM_OUTPUTS)
         self.id = id
-        self.generation_number = 0
+        self.generation_number = generation_number
         self.ancestors = []
+        self.mutatated_position = []
 
         if adn is not None:
             self.__strategy.update_weight(adn)
@@ -38,3 +39,12 @@ class Creature:
     
     def __lt__(self, other):
         return self.generation_number < other.generation_number
+    
+    def infor(self):
+        return {
+            "id": self.id,
+            "generation_number": self.generation_number,
+            "ancestors": self.ancestors,
+            "mutatated_position": self.mutatated_position,
+            "adn" : self.adn()
+        }

@@ -1,23 +1,9 @@
 @echo off
-setlocal EnableDelayedExpansion
 
-start "Algorithm" cmd /k "python main.py"
-set PYTHON_PID=%!
+start cmd /k "python algorithm.py"
 
-timeout /t 5
+timeout /t 5 /nobreak
 
-start "Server" cmd /k "node server.js"
-set NODE_PID=%!
+start cmd /k "node server.js"
 
-:: Wait for Ctrl+C
-:loop
-timeout /t 1 >nul
-goto loop
-
-:cleanup
-taskkill /PID %PYTHON_PID% /F
-taskkill /PID %NODE_PID% /F
-exit
-
-:: Handle Ctrl+C
-trap cleanup INT
+pause

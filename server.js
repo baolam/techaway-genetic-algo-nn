@@ -10,6 +10,7 @@ const IP_ADDRESS = `${ip.address()}:${PORT}`;
 const app = express();
 const server = http.createServer(app);
 const algorithm = io("http://localhost:5000");
+const AlgorithmHistory = require("./server/AlgorithmHistory");
 
 algorithm.on("connect", () => {
   console.log("Connected to server!");
@@ -36,15 +37,48 @@ algorithm.on("creature_strategy", (data) => {
   console.log(data);
 });
 
+algorithm.on("run_algorithm_infor", (data) => {
+  console.log(data);
+});
+
 // Viết API nhận dữ liệu được gửi từ giao diện
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
+
 app.post("/update_environment", (req, res) => {
   algorithm.emit("update_environment", req.body);
 });
+
 app.get("/creature/strategy", (req, res) => {
   algorithm.emit("creature_strategy", req.query.id);
   res.send("Sent a request to server!");
+});
+
+app.get("/algorithm/result/fitness", (req, res) => {
+  const folder = req.query.of;
+  if (folder.length === 0) {
+    res.status(400).send("Folder is empty!");
+  }
+
+  const algorithmatic_history = new AlgorithmHistory(folder);
+  const fitness = algorithmatic_history.get_fitness();
+  res.send(fitness);
+});
+
+app.get("/algorithm/result/environment", (req, res) => {
+  const folder = req.query.of;
+  if (folder.length === 0) {
+    res.status(400).send("Folder is empty!");
+  }
+
+  const algorithmatic_history = new AlgorithmHistory(folder);
+  res.send(algorithmatic_history.get_environment_infor());
+});
+
+app.get("/stop-program", (req, res) => {
+  algorithm.emit("stop-program");
+  res.send("A program stopped!");
+  process.exit(0);
 });
 
 server.listen(PORT, () => {

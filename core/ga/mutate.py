@@ -16,5 +16,6 @@ def mutate(creatures : List[Creature], mutation_rate : float, adn_length : int):
         adn = creature.adn()
         adn[gene_index] = value
         creature.update_adn(adn)
+        creature.mutatated_position.append(gene_index)
 
-    return creatures, mutated_creatures
+    return creatures

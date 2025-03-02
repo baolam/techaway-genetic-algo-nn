@@ -13,4 +13,6 @@ def crossover(kept_creatures : List[Creature], adn_length : int, removed_idx : i
     adn = parent1.adn()[:k] + parent2.adn()[k:]
     # Tạo con mới
     child = Creature(str(removed_idx), generation + 1, adn)
+    child.ancestors.append(parent1.id)
+    child.ancestors.append(parent2.id)
     return child

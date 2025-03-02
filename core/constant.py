@@ -9,7 +9,7 @@ NUM_OUTPUTS = 3
 FIGHTING_THRESHOLD = 0.4
 
 # Số lượng sinh vật tối đa
-NUM_CREATURES = 100
+NUM_CREATURES = 200
 
 # Server xử lí chính
 # WS_HOST = "ws://localhost:8080"

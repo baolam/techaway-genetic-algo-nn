@@ -1,6 +1,7 @@
 import socketio
 import eventlet
 import eventlet.wsgi
+import sys
 from flask import Flask
 
 # Tới phần cài đặt thuật toán
@@ -8,6 +9,7 @@ from core.Creature import Creature
 from core.Environment import Environment
 from core.constant import NUM_CREATURES
 from core.ga.fitness import fitness_function
+from core.ga.GeneticAlgorithm import GeneticAlgorithm
 
 class FindStrategy:
     def __init__(self, srv):
@@ -54,7 +56,8 @@ class FindStrategy:
             "adn" : creature.adn(),
             "generation" : creature.generation_number,
             "ancestors" : creature.ancestors,
-            "fitness" : fitness_function(self.environment, strategy)
+            "fitness" : fitness_function(self.environment, strategy),
+            "mutated_position" : creature.mutatated_position
         }
 
         self.srv.emit("creature_strategy", infor)
@@ -82,6 +85,12 @@ def update_environment(sid, data):
 @sio.on('creature_strategy')
 def creature_strategy(sid, data):
     strategy.access_strategy_by_id(data)
+
+@sio.on('stop-program')
+def stop_program(sid):
+    print("Stopping program...")
+    sio.shutdown()
+    sys.exit(0)
 
 if __name__ == '__main__':
     app = socketio.Middleware(sio, app)
