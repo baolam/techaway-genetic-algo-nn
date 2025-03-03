@@ -53,34 +53,41 @@ class GeneticAlgorithm:
 
         return generation_infor
     
-    def run_through_generation(self, generations, storaged_name : str, show : bool = False, on_callback_step : Callable = None):
+    def run_through_generation(self, generations, storaged_name : str, show : bool = False, on_callback_step : Callable = None,
+                               skip_storage : bool = True):
         folder_name = os.path.join(STORAGE_PATH, storaged_name)
-        if not os.path.exists(folder_name):
+        if not os.path.exists(folder_name) and not skip_storage:
             os.makedirs(folder_name)
 
         if show:
             _tmp = tqdm(range(1, generations + 1), desc="Generation")
         else:
             _tmp = range(1, generations + 1)
-            
+        
+        fitness_scores = []
+
         for generation in _tmp:
             infor = self.run_on_one_generation(generation)
 
             if on_callback_step:
                 on_callback_step(infor, generation)
 
-            if generation >= generations - self.__num_generations:
+            if generation >= generations - self.__num_generations and not skip_storage:
                 file_name = os.path.join(folder_name, f"{generation}.json")
                 with open(file_name, "w") as file:
                     json.dump(infor, file, indent=4)
+            
+            fitness_scores.append(infor["best_fitness"])
 
-        overall = os.path.join(folder_name, "overall.json")
-        with open(overall, "w") as f:
-            infor = {
-                "environment" : self.__env.infor(),
-                "generations" : generations
-            }
-            json.dump(infor, f, indent=4)
+        if not skip_storage:
+            overall = os.path.join(folder_name, "overall.json")
+            with open(overall, "w") as f:
+                infor = {
+                    "environment" : self.__env.infor(),
+                    "generations" : generations,
+                    "fintess" : fitness_scores
+                }
+                json.dump(infor, f, indent=4)
 
         return folder_name
     

@@ -43,3 +43,7 @@ trong môi trường biến động
 - **Về phương pháp lai**: Là phương pháp lai ghép đoạn giữa hai cá thể được xem như là parent, kết quả cho ra một cá thể con chứa đoạn gen của cả 2
 
 - **Về phương pháp đột biến**: Là phương pháp đột biến điểm, thay đổi giá trị bằng một giá trị ngẫu nhiên trong khoảng (-1, 1)
+
+## Thực thi ví dụ
+
+- Chỉ muốn chạy thuật toán cơ bản: python run_algorithm_local.py

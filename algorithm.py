@@ -67,7 +67,7 @@ class FindStrategy:
         generations = data["generations"]
 
         ga = GeneticAlgorithm(self.creatures, self.environment)
-        ga.run_through_generation(generations, saved_at, show=True)
+        ga.run_through_generation(generations, saved_at, show=True, skip_storage=False)
 
 sio = socketio.Server()
 app = Flask(__name__)
