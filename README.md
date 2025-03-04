@@ -47,3 +47,5 @@ trong môi trường biến động
 ## Thực thi ví dụ
 
 - Chỉ muốn chạy thuật toán cơ bản: python run_algorithm_local.py
+
+- Chạy đầy đủ và có giao diện hiển thị: illustration.bat rùi truy cập http://localhost:3000 ::)) (không bị hack đâu)
