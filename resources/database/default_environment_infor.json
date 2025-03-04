@@ -2,9 +2,9 @@
     "temperature" : 28,
     "humidity" : 40,
     "percen_foods" : 0.5,
-    "rainfall" : 24000,
+    "rainfall" : 2400,
     "atmos_pressure" : 880,
-    "wind_speed" : 20,
+    "wind_speed" : 850,
     "ph" : 8,
     "energy" : 200
 }

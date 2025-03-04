@@ -17,7 +17,7 @@ Router.get("/result", (req, res) => {
   if (folder === undefined) {
     return res.status(400).send({ message: "Missing folder parameter" });
   }
-  const creature = req.query.creature;
+  const creature = req.query.id;
   if (creature === undefined) {
     return res.status(400).send({ message: "Missing creature parameter" });
   }

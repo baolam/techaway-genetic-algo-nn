@@ -85,7 +85,7 @@ class GeneticAlgorithm:
                 infor = {
                     "environment" : self.__env.infor(),
                     "generations" : generations,
-                    "fintess" : fitness_scores
+                    "fitness" : fitness_scores
                 }
                 json.dump(infor, f, indent=4)
 

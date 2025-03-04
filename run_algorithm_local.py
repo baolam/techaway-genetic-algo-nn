@@ -37,9 +37,9 @@ def update_environment_infor():
 
     temperature = get_infor(0, 100, "nhiệt độ")
     humidity = get_infor(0, 100, "độ ẩm")
-    percen_foods = get_infor(0, None, "mức độ thức ăn")
-    rainfall = get_infor(0, None, "lượng mưa")
-    atmos_pressure = get_infor(0, None, "áp suất khí quyển")
+    percen_foods = get_infor(0, 1, "mức độ thức ăn")
+    rainfall = get_infor(0.5, None, "lượng mưa")
+    atmos_pressure = get_infor(840, None, "áp suất khí quyển")
     wind_speed = get_infor(0, None, "tốc độ gió")
     ph = get_infor(0, 14, "pH")
     energy = get_infor(0, None, "năng lượng tối đa của môi trường")
@@ -53,20 +53,30 @@ def update_environment_infor():
     environemt.update_ph(ph)
     environemt.update_energy(energy)
 
-def run_algorithm(num_generations, storage_folder):
+def run_algorithm(num_generations, storage_folder, skip_storage : bool = True):
     fitnesses = []
     def on_fitness_infor(infor, generation):
         fitnesses.append(infor["best_fitness"])
 
     ga = GeneticAlgorithm(creatures, environemt)
-    ga.run_through_generation(num_generations, storage_folder, show=True, on_callback_step=on_fitness_infor)
+    ga.run_through_generation(num_generations, storage_folder, show=True, skip_storage=skip_storage, on_callback_step=on_fitness_infor)
     return fitnesses
 
 
 num_generations = int(input("Hãy nhập số lượng thế hệ: "))
-# storage_folder = input("Hãy nhập tên thư mục lưu trữ: ")
 update_environment_infor()
-fitnesses = run_algorithm(num_generations, storage_folder="haha")
+
+skip_storage = input("Cho phép tạo folder lưu trữ hay không? [Y/N]: ").upper()
+while skip_storage != "Y" and skip_storage != "N":
+    skip_storage = input("Lựa chọn không hợp lệ. Vui lòng nhập lại").upper()
+if skip_storage == "Y":
+    storage_folder = input("Hãy nhập tên thư mục lưu trữ: ")
+    skip_storage = False
+else:
+    storage_folder = "haha"
+    skip_storage = True
+
+fitnesses = run_algorithm(num_generations, storage_folder=storage_folder, skip_storage=skip_storage)
 
 print("Hiển thị biểu đồ thích nghi")
 import matplotlib.pyplot as plt

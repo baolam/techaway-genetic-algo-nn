@@ -1,0 +1,11234 @@
+{
+  "485": {
+    "1": {
+      "generation": 482,
+      "ancestors": [
+        "8",
+        "23"
+      ]
+    },
+    "2": {
+      "generation": 469,
+      "ancestors": [
+        "37",
+        "41"
+      ]
+    },
+    "3": {
+      "generation": 479,
+      "ancestors": [
+        "27",
+        "53"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 486,
+      "ancestors": [
+        "90",
+        "77"
+      ]
+    },
+    "6": {
+      "generation": 471,
+      "ancestors": [
+        "24",
+        "57"
+      ]
+    },
+    "7": {
+      "generation": 481,
+      "ancestors": [
+        "87",
+        "91"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 483,
+      "ancestors": [
+        "66",
+        "67"
+      ]
+    },
+    "10": {
+      "generation": 481,
+      "ancestors": [
+        "77",
+        "89"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 479,
+      "ancestors": [
+        "100",
+        "88"
+      ]
+    },
+    "13": {
+      "generation": 466,
+      "ancestors": [
+        "49",
+        "29"
+      ]
+    },
+    "14": {
+      "generation": 484,
+      "ancestors": [
+        "77",
+        "54"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 473,
+      "ancestors": [
+        "67",
+        "64"
+      ]
+    },
+    "17": {
+      "generation": 463,
+      "ancestors": [
+        "85",
+        "12"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 485,
+      "ancestors": [
+        "60",
+        "97"
+      ]
+    },
+    "20": {
+      "generation": 471,
+      "ancestors": [
+        "12",
+        "90"
+      ]
+    },
+    "21": {
+      "generation": 472,
+      "ancestors": [
+        "57",
+        "57"
+      ]
+    },
+    "22": {
+      "generation": 476,
+      "ancestors": [
+        "61",
+        "8"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 484,
+      "ancestors": [
+        "89",
+        "71"
+      ]
+    },
+    "25": {
+      "generation": 478,
+      "ancestors": [
+        "48",
+        "45"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 475,
+      "ancestors": [
+        "29",
+        "42"
+      ]
+    },
+    "28": {
+      "generation": 479,
+      "ancestors": [
+        "75",
+        "43"
+      ]
+    },
+    "29": {
+      "generation": 486,
+      "ancestors": [
+        "34",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 482,
+      "ancestors": [
+        "57",
+        "89"
+      ]
+    },
+    "32": {
+      "generation": 448,
+      "ancestors": [
+        "85",
+        "30"
+      ]
+    },
+    "33": {
+      "generation": 486,
+      "ancestors": [
+        "97",
+        "95"
+      ]
+    },
+    "34": {
+      "generation": 474,
+      "ancestors": [
+        "92",
+        "57"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 451,
+      "ancestors": [
+        "41",
+        "30"
+      ]
+    },
+    "37": {
+      "generation": 481,
+      "ancestors": [
+        "55",
+        "65"
+      ]
+    },
+    "38": {
+      "generation": 486,
+      "ancestors": [
+        "28",
+        "58"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 486,
+      "ancestors": [
+        "22",
+        "20"
+      ]
+    },
+    "41": {
+      "generation": 465,
+      "ancestors": [
+        "77",
+        "26"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 476,
+      "ancestors": [
+        "31",
+        "53"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 470,
+      "ancestors": [
+        "81",
+        "32"
+      ]
+    },
+    "46": {
+      "generation": 484,
+      "ancestors": [
+        "80",
+        "77"
+      ]
+    },
+    "47": {
+      "generation": 477,
+      "ancestors": [
+        "99",
+        "97"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 485,
+      "ancestors": [
+        "40",
+        "36"
+      ]
+    },
+    "50": {
+      "generation": 481,
+      "ancestors": [
+        "68",
+        "71"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 482,
+      "ancestors": [
+        "50",
+        "34"
+      ]
+    },
+    "53": {
+      "generation": 433,
+      "ancestors": [
+        "21",
+        "88"
+      ]
+    },
+    "54": {
+      "generation": 483,
+      "ancestors": [
+        "11",
+        "22"
+      ]
+    },
+    "55": {
+      "generation": 483,
+      "ancestors": [
+        "75",
+        "78"
+      ]
+    },
+    "56": {
+      "generation": 484,
+      "ancestors": [
+        "41",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 464,
+      "ancestors": [
+        "95",
+        "29"
+      ]
+    },
+    "58": {
+      "generation": 470,
+      "ancestors": [
+        "55",
+        "4"
+      ]
+    },
+    "59": {
+      "generation": 486,
+      "ancestors": [
+        "98",
+        "56"
+      ]
+    },
+    "60": {
+      "generation": 483,
+      "ancestors": [
+        "69",
+        "56"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 482,
+      "ancestors": [
+        "39",
+        "2"
+      ]
+    },
+    "63": {
+      "generation": 481,
+      "ancestors": [
+        "45",
+        "78"
+      ]
+    },
+    "64": {
+      "generation": 419,
+      "ancestors": [
+        "7",
+        "6"
+      ]
+    },
+    "65": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "85"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 480,
+      "ancestors": [
+        "23",
+        "5"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 480,
+      "ancestors": [
+        "17",
+        "43"
+      ]
+    },
+    "70": {
+      "generation": 486,
+      "ancestors": [
+        "68",
+        "19"
+      ]
+    },
+    "71": {
+      "generation": 483,
+      "ancestors": [
+        "94",
+        "7"
+      ]
+    },
+    "72": {
+      "generation": 484,
+      "ancestors": [
+        "45",
+        "40"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 486,
+      "ancestors": [
+        "55",
+        "16"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 484,
+      "ancestors": [
+        "55",
+        "58"
+      ]
+    },
+    "77": {
+      "generation": 480,
+      "ancestors": [
+        "24",
+        "29"
+      ]
+    },
+    "78": {
+      "generation": 482,
+      "ancestors": [
+        "3",
+        "15"
+      ]
+    },
+    "79": {
+      "generation": 457,
+      "ancestors": [
+        "99",
+        "59"
+      ]
+    },
+    "80": {
+      "generation": 482,
+      "ancestors": [
+        "59",
+        "85"
+      ]
+    },
+    "81": {
+      "generation": 476,
+      "ancestors": [
+        "33",
+        "38"
+      ]
+    },
+    "82": {
+      "generation": 484,
+      "ancestors": [
+        "74",
+        "40"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 477,
+      "ancestors": [
+        "79",
+        "18"
+      ]
+    },
+    "85": {
+      "generation": 481,
+      "ancestors": [
+        "88",
+        "98"
+      ]
+    },
+    "86": {
+      "generation": 483,
+      "ancestors": [
+        "13",
+        "57"
+      ]
+    },
+    "87": {
+      "generation": 482,
+      "ancestors": [
+        "58",
+        "2"
+      ]
+    },
+    "88": {
+      "generation": 473,
+      "ancestors": [
+        "71",
+        "20"
+      ]
+    },
+    "89": {
+      "generation": 461,
+      "ancestors": [
+        "65",
+        "16"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 485,
+      "ancestors": [
+        "73",
+        "55"
+      ]
+    },
+    "92": {
+      "generation": 481,
+      "ancestors": [
+        "44",
+        "88"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "7"
+      ]
+    },
+    "95": {
+      "generation": 482,
+      "ancestors": [
+        "45",
+        "27"
+      ]
+    },
+    "96": {
+      "generation": 481,
+      "ancestors": [
+        "65",
+        "36"
+      ]
+    },
+    "97": {
+      "generation": 474,
+      "ancestors": [
+        "96",
+        "55"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 472,
+      "ancestors": [
+        "49",
+        "43"
+      ]
+    },
+    "100": {
+      "generation": 483,
+      "ancestors": [
+        "62",
+        "47"
+      ]
+    }
+  },
+  "486": {
+    "1": {
+      "generation": 482,
+      "ancestors": [
+        "8",
+        "23"
+      ]
+    },
+    "2": {
+      "generation": 469,
+      "ancestors": [
+        "37",
+        "41"
+      ]
+    },
+    "3": {
+      "generation": 479,
+      "ancestors": [
+        "27",
+        "53"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 486,
+      "ancestors": [
+        "90",
+        "77"
+      ]
+    },
+    "6": {
+      "generation": 471,
+      "ancestors": [
+        "24",
+        "57"
+      ]
+    },
+    "7": {
+      "generation": 481,
+      "ancestors": [
+        "87",
+        "91"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 483,
+      "ancestors": [
+        "66",
+        "67"
+      ]
+    },
+    "10": {
+      "generation": 481,
+      "ancestors": [
+        "77",
+        "89"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 479,
+      "ancestors": [
+        "100",
+        "88"
+      ]
+    },
+    "13": {
+      "generation": 466,
+      "ancestors": [
+        "49",
+        "29"
+      ]
+    },
+    "14": {
+      "generation": 484,
+      "ancestors": [
+        "77",
+        "54"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 473,
+      "ancestors": [
+        "67",
+        "64"
+      ]
+    },
+    "17": {
+      "generation": 463,
+      "ancestors": [
+        "85",
+        "12"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 485,
+      "ancestors": [
+        "60",
+        "97"
+      ]
+    },
+    "20": {
+      "generation": 487,
+      "ancestors": [
+        "70",
+        "8"
+      ]
+    },
+    "21": {
+      "generation": 472,
+      "ancestors": [
+        "57",
+        "57"
+      ]
+    },
+    "22": {
+      "generation": 476,
+      "ancestors": [
+        "61",
+        "8"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 484,
+      "ancestors": [
+        "89",
+        "71"
+      ]
+    },
+    "25": {
+      "generation": 478,
+      "ancestors": [
+        "48",
+        "45"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 475,
+      "ancestors": [
+        "29",
+        "42"
+      ]
+    },
+    "28": {
+      "generation": 479,
+      "ancestors": [
+        "75",
+        "43"
+      ]
+    },
+    "29": {
+      "generation": 486,
+      "ancestors": [
+        "34",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 482,
+      "ancestors": [
+        "57",
+        "89"
+      ]
+    },
+    "32": {
+      "generation": 448,
+      "ancestors": [
+        "85",
+        "30"
+      ]
+    },
+    "33": {
+      "generation": 486,
+      "ancestors": [
+        "97",
+        "95"
+      ]
+    },
+    "34": {
+      "generation": 474,
+      "ancestors": [
+        "92",
+        "57"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 451,
+      "ancestors": [
+        "41",
+        "30"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 486,
+      "ancestors": [
+        "28",
+        "58"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 486,
+      "ancestors": [
+        "22",
+        "20"
+      ]
+    },
+    "41": {
+      "generation": 465,
+      "ancestors": [
+        "77",
+        "26"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 476,
+      "ancestors": [
+        "31",
+        "53"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 470,
+      "ancestors": [
+        "81",
+        "32"
+      ]
+    },
+    "46": {
+      "generation": 484,
+      "ancestors": [
+        "80",
+        "77"
+      ]
+    },
+    "47": {
+      "generation": 477,
+      "ancestors": [
+        "99",
+        "97"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 485,
+      "ancestors": [
+        "40",
+        "36"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 482,
+      "ancestors": [
+        "50",
+        "34"
+      ]
+    },
+    "53": {
+      "generation": 433,
+      "ancestors": [
+        "21",
+        "88"
+      ]
+    },
+    "54": {
+      "generation": 483,
+      "ancestors": [
+        "11",
+        "22"
+      ]
+    },
+    "55": {
+      "generation": 483,
+      "ancestors": [
+        "75",
+        "78"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 464,
+      "ancestors": [
+        "95",
+        "29"
+      ]
+    },
+    "58": {
+      "generation": 470,
+      "ancestors": [
+        "55",
+        "4"
+      ]
+    },
+    "59": {
+      "generation": 487,
+      "ancestors": [
+        "74",
+        "17"
+      ]
+    },
+    "60": {
+      "generation": 487,
+      "ancestors": [
+        "11",
+        "71"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 487,
+      "ancestors": [
+        "94",
+        "14"
+      ]
+    },
+    "63": {
+      "generation": 481,
+      "ancestors": [
+        "45",
+        "78"
+      ]
+    },
+    "64": {
+      "generation": 419,
+      "ancestors": [
+        "7",
+        "6"
+      ]
+    },
+    "65": {
+      "generation": 487,
+      "ancestors": [
+        "25",
+        "70"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 480,
+      "ancestors": [
+        "23",
+        "5"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 480,
+      "ancestors": [
+        "17",
+        "43"
+      ]
+    },
+    "70": {
+      "generation": 486,
+      "ancestors": [
+        "68",
+        "19"
+      ]
+    },
+    "71": {
+      "generation": 483,
+      "ancestors": [
+        "94",
+        "7"
+      ]
+    },
+    "72": {
+      "generation": 484,
+      "ancestors": [
+        "45",
+        "40"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 486,
+      "ancestors": [
+        "55",
+        "16"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 484,
+      "ancestors": [
+        "55",
+        "58"
+      ]
+    },
+    "77": {
+      "generation": 480,
+      "ancestors": [
+        "24",
+        "29"
+      ]
+    },
+    "78": {
+      "generation": 482,
+      "ancestors": [
+        "3",
+        "15"
+      ]
+    },
+    "79": {
+      "generation": 457,
+      "ancestors": [
+        "99",
+        "59"
+      ]
+    },
+    "80": {
+      "generation": 487,
+      "ancestors": [
+        "78",
+        "75"
+      ]
+    },
+    "81": {
+      "generation": 476,
+      "ancestors": [
+        "33",
+        "38"
+      ]
+    },
+    "82": {
+      "generation": 484,
+      "ancestors": [
+        "74",
+        "40"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 477,
+      "ancestors": [
+        "79",
+        "18"
+      ]
+    },
+    "85": {
+      "generation": 487,
+      "ancestors": [
+        "61",
+        "53"
+      ]
+    },
+    "86": {
+      "generation": 483,
+      "ancestors": [
+        "13",
+        "57"
+      ]
+    },
+    "87": {
+      "generation": 482,
+      "ancestors": [
+        "58",
+        "2"
+      ]
+    },
+    "88": {
+      "generation": 473,
+      "ancestors": [
+        "71",
+        "20"
+      ]
+    },
+    "89": {
+      "generation": 461,
+      "ancestors": [
+        "65",
+        "16"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 485,
+      "ancestors": [
+        "73",
+        "55"
+      ]
+    },
+    "92": {
+      "generation": 481,
+      "ancestors": [
+        "44",
+        "88"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "7"
+      ]
+    },
+    "95": {
+      "generation": 482,
+      "ancestors": [
+        "45",
+        "27"
+      ]
+    },
+    "96": {
+      "generation": 481,
+      "ancestors": [
+        "65",
+        "36"
+      ]
+    },
+    "97": {
+      "generation": 474,
+      "ancestors": [
+        "96",
+        "55"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 472,
+      "ancestors": [
+        "49",
+        "43"
+      ]
+    },
+    "100": {
+      "generation": 483,
+      "ancestors": [
+        "62",
+        "47"
+      ]
+    }
+  },
+  "487": {
+    "1": {
+      "generation": 482,
+      "ancestors": [
+        "8",
+        "23"
+      ]
+    },
+    "2": {
+      "generation": 469,
+      "ancestors": [
+        "37",
+        "41"
+      ]
+    },
+    "3": {
+      "generation": 479,
+      "ancestors": [
+        "27",
+        "53"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 486,
+      "ancestors": [
+        "90",
+        "77"
+      ]
+    },
+    "6": {
+      "generation": 471,
+      "ancestors": [
+        "24",
+        "57"
+      ]
+    },
+    "7": {
+      "generation": 481,
+      "ancestors": [
+        "87",
+        "91"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 483,
+      "ancestors": [
+        "66",
+        "67"
+      ]
+    },
+    "10": {
+      "generation": 481,
+      "ancestors": [
+        "77",
+        "89"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 479,
+      "ancestors": [
+        "100",
+        "88"
+      ]
+    },
+    "13": {
+      "generation": 466,
+      "ancestors": [
+        "49",
+        "29"
+      ]
+    },
+    "14": {
+      "generation": 484,
+      "ancestors": [
+        "77",
+        "54"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 488,
+      "ancestors": [
+        "91",
+        "74"
+      ]
+    },
+    "17": {
+      "generation": 463,
+      "ancestors": [
+        "85",
+        "12"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 485,
+      "ancestors": [
+        "60",
+        "97"
+      ]
+    },
+    "20": {
+      "generation": 487,
+      "ancestors": [
+        "70",
+        "8"
+      ]
+    },
+    "21": {
+      "generation": 472,
+      "ancestors": [
+        "57",
+        "57"
+      ]
+    },
+    "22": {
+      "generation": 476,
+      "ancestors": [
+        "61",
+        "8"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 484,
+      "ancestors": [
+        "89",
+        "71"
+      ]
+    },
+    "25": {
+      "generation": 478,
+      "ancestors": [
+        "48",
+        "45"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "79"
+      ]
+    },
+    "28": {
+      "generation": 479,
+      "ancestors": [
+        "75",
+        "43"
+      ]
+    },
+    "29": {
+      "generation": 486,
+      "ancestors": [
+        "34",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 482,
+      "ancestors": [
+        "57",
+        "89"
+      ]
+    },
+    "32": {
+      "generation": 448,
+      "ancestors": [
+        "85",
+        "30"
+      ]
+    },
+    "33": {
+      "generation": 488,
+      "ancestors": [
+        "41",
+        "68"
+      ]
+    },
+    "34": {
+      "generation": 474,
+      "ancestors": [
+        "92",
+        "57"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 451,
+      "ancestors": [
+        "41",
+        "30"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 486,
+      "ancestors": [
+        "28",
+        "58"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 486,
+      "ancestors": [
+        "22",
+        "20"
+      ]
+    },
+    "41": {
+      "generation": 465,
+      "ancestors": [
+        "77",
+        "26"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 476,
+      "ancestors": [
+        "31",
+        "53"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 470,
+      "ancestors": [
+        "81",
+        "32"
+      ]
+    },
+    "46": {
+      "generation": 484,
+      "ancestors": [
+        "80",
+        "77"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 485,
+      "ancestors": [
+        "40",
+        "36"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 482,
+      "ancestors": [
+        "50",
+        "34"
+      ]
+    },
+    "53": {
+      "generation": 433,
+      "ancestors": [
+        "21",
+        "88"
+      ]
+    },
+    "54": {
+      "generation": 483,
+      "ancestors": [
+        "11",
+        "22"
+      ]
+    },
+    "55": {
+      "generation": 483,
+      "ancestors": [
+        "75",
+        "78"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 464,
+      "ancestors": [
+        "95",
+        "29"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 487,
+      "ancestors": [
+        "74",
+        "17"
+      ]
+    },
+    "60": {
+      "generation": 487,
+      "ancestors": [
+        "11",
+        "71"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 487,
+      "ancestors": [
+        "94",
+        "14"
+      ]
+    },
+    "63": {
+      "generation": 481,
+      "ancestors": [
+        "45",
+        "78"
+      ]
+    },
+    "64": {
+      "generation": 488,
+      "ancestors": [
+        "44",
+        "85"
+      ]
+    },
+    "65": {
+      "generation": 487,
+      "ancestors": [
+        "25",
+        "70"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 480,
+      "ancestors": [
+        "23",
+        "5"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 480,
+      "ancestors": [
+        "17",
+        "43"
+      ]
+    },
+    "70": {
+      "generation": 486,
+      "ancestors": [
+        "68",
+        "19"
+      ]
+    },
+    "71": {
+      "generation": 483,
+      "ancestors": [
+        "94",
+        "7"
+      ]
+    },
+    "72": {
+      "generation": 484,
+      "ancestors": [
+        "45",
+        "40"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 486,
+      "ancestors": [
+        "55",
+        "16"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 484,
+      "ancestors": [
+        "55",
+        "58"
+      ]
+    },
+    "77": {
+      "generation": 480,
+      "ancestors": [
+        "24",
+        "29"
+      ]
+    },
+    "78": {
+      "generation": 482,
+      "ancestors": [
+        "3",
+        "15"
+      ]
+    },
+    "79": {
+      "generation": 457,
+      "ancestors": [
+        "99",
+        "59"
+      ]
+    },
+    "80": {
+      "generation": 487,
+      "ancestors": [
+        "78",
+        "75"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 484,
+      "ancestors": [
+        "74",
+        "40"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 477,
+      "ancestors": [
+        "79",
+        "18"
+      ]
+    },
+    "85": {
+      "generation": 487,
+      "ancestors": [
+        "61",
+        "53"
+      ]
+    },
+    "86": {
+      "generation": 483,
+      "ancestors": [
+        "13",
+        "57"
+      ]
+    },
+    "87": {
+      "generation": 482,
+      "ancestors": [
+        "58",
+        "2"
+      ]
+    },
+    "88": {
+      "generation": 473,
+      "ancestors": [
+        "71",
+        "20"
+      ]
+    },
+    "89": {
+      "generation": 461,
+      "ancestors": [
+        "65",
+        "16"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 485,
+      "ancestors": [
+        "73",
+        "55"
+      ]
+    },
+    "92": {
+      "generation": 481,
+      "ancestors": [
+        "44",
+        "88"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "7"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 481,
+      "ancestors": [
+        "65",
+        "36"
+      ]
+    },
+    "97": {
+      "generation": 488,
+      "ancestors": [
+        "94",
+        "88"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 472,
+      "ancestors": [
+        "49",
+        "43"
+      ]
+    },
+    "100": {
+      "generation": 488,
+      "ancestors": [
+        "62",
+        "34"
+      ]
+    }
+  },
+  "488": {
+    "1": {
+      "generation": 482,
+      "ancestors": [
+        "8",
+        "23"
+      ]
+    },
+    "2": {
+      "generation": 469,
+      "ancestors": [
+        "37",
+        "41"
+      ]
+    },
+    "3": {
+      "generation": 479,
+      "ancestors": [
+        "27",
+        "53"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 486,
+      "ancestors": [
+        "90",
+        "77"
+      ]
+    },
+    "6": {
+      "generation": 471,
+      "ancestors": [
+        "24",
+        "57"
+      ]
+    },
+    "7": {
+      "generation": 481,
+      "ancestors": [
+        "87",
+        "91"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 483,
+      "ancestors": [
+        "66",
+        "67"
+      ]
+    },
+    "10": {
+      "generation": 481,
+      "ancestors": [
+        "77",
+        "89"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 479,
+      "ancestors": [
+        "100",
+        "88"
+      ]
+    },
+    "13": {
+      "generation": 466,
+      "ancestors": [
+        "49",
+        "29"
+      ]
+    },
+    "14": {
+      "generation": 484,
+      "ancestors": [
+        "77",
+        "54"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 489,
+      "ancestors": [
+        "56",
+        "14"
+      ]
+    },
+    "17": {
+      "generation": 463,
+      "ancestors": [
+        "85",
+        "12"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 489,
+      "ancestors": [
+        "52",
+        "9"
+      ]
+    },
+    "20": {
+      "generation": 489,
+      "ancestors": [
+        "80",
+        "22"
+      ]
+    },
+    "21": {
+      "generation": 472,
+      "ancestors": [
+        "57",
+        "57"
+      ]
+    },
+    "22": {
+      "generation": 476,
+      "ancestors": [
+        "61",
+        "8"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 484,
+      "ancestors": [
+        "89",
+        "71"
+      ]
+    },
+    "25": {
+      "generation": 478,
+      "ancestors": [
+        "48",
+        "45"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "79"
+      ]
+    },
+    "28": {
+      "generation": 479,
+      "ancestors": [
+        "75",
+        "43"
+      ]
+    },
+    "29": {
+      "generation": 486,
+      "ancestors": [
+        "34",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 482,
+      "ancestors": [
+        "57",
+        "89"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 488,
+      "ancestors": [
+        "41",
+        "68"
+      ]
+    },
+    "34": {
+      "generation": 474,
+      "ancestors": [
+        "92",
+        "57"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 489,
+      "ancestors": [
+        "43",
+        "15"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 486,
+      "ancestors": [
+        "22",
+        "20"
+      ]
+    },
+    "41": {
+      "generation": 465,
+      "ancestors": [
+        "77",
+        "26"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 476,
+      "ancestors": [
+        "31",
+        "53"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 470,
+      "ancestors": [
+        "81",
+        "32"
+      ]
+    },
+    "46": {
+      "generation": 484,
+      "ancestors": [
+        "80",
+        "77"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 485,
+      "ancestors": [
+        "40",
+        "36"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 482,
+      "ancestors": [
+        "50",
+        "34"
+      ]
+    },
+    "53": {
+      "generation": 433,
+      "ancestors": [
+        "21",
+        "88"
+      ]
+    },
+    "54": {
+      "generation": 483,
+      "ancestors": [
+        "11",
+        "22"
+      ]
+    },
+    "55": {
+      "generation": 483,
+      "ancestors": [
+        "75",
+        "78"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 464,
+      "ancestors": [
+        "95",
+        "29"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 489,
+      "ancestors": [
+        "87",
+        "80"
+      ]
+    },
+    "60": {
+      "generation": 487,
+      "ancestors": [
+        "11",
+        "71"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 487,
+      "ancestors": [
+        "94",
+        "14"
+      ]
+    },
+    "63": {
+      "generation": 481,
+      "ancestors": [
+        "45",
+        "78"
+      ]
+    },
+    "64": {
+      "generation": 488,
+      "ancestors": [
+        "44",
+        "85"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 480,
+      "ancestors": [
+        "23",
+        "5"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 480,
+      "ancestors": [
+        "17",
+        "43"
+      ]
+    },
+    "70": {
+      "generation": 489,
+      "ancestors": [
+        "73",
+        "97"
+      ]
+    },
+    "71": {
+      "generation": 483,
+      "ancestors": [
+        "94",
+        "7"
+      ]
+    },
+    "72": {
+      "generation": 484,
+      "ancestors": [
+        "45",
+        "40"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 489,
+      "ancestors": [
+        "28",
+        "45"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 484,
+      "ancestors": [
+        "55",
+        "58"
+      ]
+    },
+    "77": {
+      "generation": 480,
+      "ancestors": [
+        "24",
+        "29"
+      ]
+    },
+    "78": {
+      "generation": 482,
+      "ancestors": [
+        "3",
+        "15"
+      ]
+    },
+    "79": {
+      "generation": 457,
+      "ancestors": [
+        "99",
+        "59"
+      ]
+    },
+    "80": {
+      "generation": 487,
+      "ancestors": [
+        "78",
+        "75"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 484,
+      "ancestors": [
+        "74",
+        "40"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 477,
+      "ancestors": [
+        "79",
+        "18"
+      ]
+    },
+    "85": {
+      "generation": 487,
+      "ancestors": [
+        "61",
+        "53"
+      ]
+    },
+    "86": {
+      "generation": 483,
+      "ancestors": [
+        "13",
+        "57"
+      ]
+    },
+    "87": {
+      "generation": 482,
+      "ancestors": [
+        "58",
+        "2"
+      ]
+    },
+    "88": {
+      "generation": 473,
+      "ancestors": [
+        "71",
+        "20"
+      ]
+    },
+    "89": {
+      "generation": 461,
+      "ancestors": [
+        "65",
+        "16"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 485,
+      "ancestors": [
+        "73",
+        "55"
+      ]
+    },
+    "92": {
+      "generation": 481,
+      "ancestors": [
+        "44",
+        "88"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "7"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 481,
+      "ancestors": [
+        "65",
+        "36"
+      ]
+    },
+    "97": {
+      "generation": 488,
+      "ancestors": [
+        "94",
+        "88"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 472,
+      "ancestors": [
+        "49",
+        "43"
+      ]
+    },
+    "100": {
+      "generation": 488,
+      "ancestors": [
+        "62",
+        "34"
+      ]
+    }
+  },
+  "489": {
+    "1": {
+      "generation": 482,
+      "ancestors": [
+        "8",
+        "23"
+      ]
+    },
+    "2": {
+      "generation": 469,
+      "ancestors": [
+        "37",
+        "41"
+      ]
+    },
+    "3": {
+      "generation": 479,
+      "ancestors": [
+        "27",
+        "53"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 486,
+      "ancestors": [
+        "90",
+        "77"
+      ]
+    },
+    "6": {
+      "generation": 471,
+      "ancestors": [
+        "24",
+        "57"
+      ]
+    },
+    "7": {
+      "generation": 481,
+      "ancestors": [
+        "87",
+        "91"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 483,
+      "ancestors": [
+        "66",
+        "67"
+      ]
+    },
+    "10": {
+      "generation": 490,
+      "ancestors": [
+        "60",
+        "49"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 490,
+      "ancestors": [
+        "46",
+        "86"
+      ]
+    },
+    "13": {
+      "generation": 466,
+      "ancestors": [
+        "49",
+        "29"
+      ]
+    },
+    "14": {
+      "generation": 484,
+      "ancestors": [
+        "77",
+        "54"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 489,
+      "ancestors": [
+        "56",
+        "14"
+      ]
+    },
+    "17": {
+      "generation": 490,
+      "ancestors": [
+        "82",
+        "91"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 489,
+      "ancestors": [
+        "52",
+        "9"
+      ]
+    },
+    "20": {
+      "generation": 489,
+      "ancestors": [
+        "80",
+        "22"
+      ]
+    },
+    "21": {
+      "generation": 472,
+      "ancestors": [
+        "57",
+        "57"
+      ]
+    },
+    "22": {
+      "generation": 476,
+      "ancestors": [
+        "61",
+        "8"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 484,
+      "ancestors": [
+        "89",
+        "71"
+      ]
+    },
+    "25": {
+      "generation": 490,
+      "ancestors": [
+        "27",
+        "19"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "79"
+      ]
+    },
+    "28": {
+      "generation": 479,
+      "ancestors": [
+        "75",
+        "43"
+      ]
+    },
+    "29": {
+      "generation": 486,
+      "ancestors": [
+        "34",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 482,
+      "ancestors": [
+        "57",
+        "89"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 488,
+      "ancestors": [
+        "41",
+        "68"
+      ]
+    },
+    "34": {
+      "generation": 474,
+      "ancestors": [
+        "92",
+        "57"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 489,
+      "ancestors": [
+        "43",
+        "15"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 486,
+      "ancestors": [
+        "22",
+        "20"
+      ]
+    },
+    "41": {
+      "generation": 465,
+      "ancestors": [
+        "77",
+        "26"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 476,
+      "ancestors": [
+        "31",
+        "53"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 484,
+      "ancestors": [
+        "80",
+        "77"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 485,
+      "ancestors": [
+        "40",
+        "36"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 482,
+      "ancestors": [
+        "50",
+        "34"
+      ]
+    },
+    "53": {
+      "generation": 490,
+      "ancestors": [
+        "33",
+        "92"
+      ]
+    },
+    "54": {
+      "generation": 483,
+      "ancestors": [
+        "11",
+        "22"
+      ]
+    },
+    "55": {
+      "generation": 483,
+      "ancestors": [
+        "75",
+        "78"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 464,
+      "ancestors": [
+        "95",
+        "29"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 489,
+      "ancestors": [
+        "87",
+        "80"
+      ]
+    },
+    "60": {
+      "generation": 487,
+      "ancestors": [
+        "11",
+        "71"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 487,
+      "ancestors": [
+        "94",
+        "14"
+      ]
+    },
+    "63": {
+      "generation": 481,
+      "ancestors": [
+        "45",
+        "78"
+      ]
+    },
+    "64": {
+      "generation": 488,
+      "ancestors": [
+        "44",
+        "85"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 480,
+      "ancestors": [
+        "17",
+        "43"
+      ]
+    },
+    "70": {
+      "generation": 489,
+      "ancestors": [
+        "73",
+        "97"
+      ]
+    },
+    "71": {
+      "generation": 483,
+      "ancestors": [
+        "94",
+        "7"
+      ]
+    },
+    "72": {
+      "generation": 484,
+      "ancestors": [
+        "45",
+        "40"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 489,
+      "ancestors": [
+        "28",
+        "45"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 484,
+      "ancestors": [
+        "55",
+        "58"
+      ]
+    },
+    "77": {
+      "generation": 480,
+      "ancestors": [
+        "24",
+        "29"
+      ]
+    },
+    "78": {
+      "generation": 482,
+      "ancestors": [
+        "3",
+        "15"
+      ]
+    },
+    "79": {
+      "generation": 457,
+      "ancestors": [
+        "99",
+        "59"
+      ]
+    },
+    "80": {
+      "generation": 487,
+      "ancestors": [
+        "78",
+        "75"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 484,
+      "ancestors": [
+        "74",
+        "40"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 477,
+      "ancestors": [
+        "79",
+        "18"
+      ]
+    },
+    "85": {
+      "generation": 487,
+      "ancestors": [
+        "61",
+        "53"
+      ]
+    },
+    "86": {
+      "generation": 483,
+      "ancestors": [
+        "13",
+        "57"
+      ]
+    },
+    "87": {
+      "generation": 482,
+      "ancestors": [
+        "58",
+        "2"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 490,
+      "ancestors": [
+        "59",
+        "86"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 485,
+      "ancestors": [
+        "73",
+        "55"
+      ]
+    },
+    "92": {
+      "generation": 481,
+      "ancestors": [
+        "44",
+        "88"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "7"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 488,
+      "ancestors": [
+        "94",
+        "88"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 472,
+      "ancestors": [
+        "49",
+        "43"
+      ]
+    },
+    "100": {
+      "generation": 488,
+      "ancestors": [
+        "62",
+        "34"
+      ]
+    }
+  },
+  "490": {
+    "1": {
+      "generation": 482,
+      "ancestors": [
+        "8",
+        "23"
+      ]
+    },
+    "2": {
+      "generation": 469,
+      "ancestors": [
+        "37",
+        "41"
+      ]
+    },
+    "3": {
+      "generation": 479,
+      "ancestors": [
+        "27",
+        "53"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 486,
+      "ancestors": [
+        "90",
+        "77"
+      ]
+    },
+    "6": {
+      "generation": 471,
+      "ancestors": [
+        "24",
+        "57"
+      ]
+    },
+    "7": {
+      "generation": 491,
+      "ancestors": [
+        "80",
+        "35"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 491,
+      "ancestors": [
+        "60",
+        "65"
+      ]
+    },
+    "10": {
+      "generation": 490,
+      "ancestors": [
+        "60",
+        "49"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 490,
+      "ancestors": [
+        "46",
+        "86"
+      ]
+    },
+    "13": {
+      "generation": 466,
+      "ancestors": [
+        "49",
+        "29"
+      ]
+    },
+    "14": {
+      "generation": 484,
+      "ancestors": [
+        "77",
+        "54"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 489,
+      "ancestors": [
+        "56",
+        "14"
+      ]
+    },
+    "17": {
+      "generation": 490,
+      "ancestors": [
+        "82",
+        "91"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 489,
+      "ancestors": [
+        "52",
+        "9"
+      ]
+    },
+    "20": {
+      "generation": 489,
+      "ancestors": [
+        "80",
+        "22"
+      ]
+    },
+    "21": {
+      "generation": 472,
+      "ancestors": [
+        "57",
+        "57"
+      ]
+    },
+    "22": {
+      "generation": 476,
+      "ancestors": [
+        "61",
+        "8"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 491,
+      "ancestors": [
+        "78",
+        "16"
+      ]
+    },
+    "25": {
+      "generation": 490,
+      "ancestors": [
+        "27",
+        "19"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 491,
+      "ancestors": [
+        "30",
+        "32"
+      ]
+    },
+    "28": {
+      "generation": 479,
+      "ancestors": [
+        "75",
+        "43"
+      ]
+    },
+    "29": {
+      "generation": 486,
+      "ancestors": [
+        "34",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 491,
+      "ancestors": [
+        "64",
+        "13"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 488,
+      "ancestors": [
+        "41",
+        "68"
+      ]
+    },
+    "34": {
+      "generation": 474,
+      "ancestors": [
+        "92",
+        "57"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 489,
+      "ancestors": [
+        "43",
+        "15"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 486,
+      "ancestors": [
+        "22",
+        "20"
+      ]
+    },
+    "41": {
+      "generation": 465,
+      "ancestors": [
+        "77",
+        "26"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 476,
+      "ancestors": [
+        "31",
+        "53"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 484,
+      "ancestors": [
+        "80",
+        "77"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 491,
+      "ancestors": [
+        "8",
+        "74"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 482,
+      "ancestors": [
+        "50",
+        "34"
+      ]
+    },
+    "53": {
+      "generation": 490,
+      "ancestors": [
+        "33",
+        "92"
+      ]
+    },
+    "54": {
+      "generation": 483,
+      "ancestors": [
+        "11",
+        "22"
+      ]
+    },
+    "55": {
+      "generation": 483,
+      "ancestors": [
+        "75",
+        "78"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 464,
+      "ancestors": [
+        "95",
+        "29"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 489,
+      "ancestors": [
+        "87",
+        "80"
+      ]
+    },
+    "60": {
+      "generation": 487,
+      "ancestors": [
+        "11",
+        "71"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 487,
+      "ancestors": [
+        "94",
+        "14"
+      ]
+    },
+    "63": {
+      "generation": 491,
+      "ancestors": [
+        "19",
+        "100"
+      ]
+    },
+    "64": {
+      "generation": 488,
+      "ancestors": [
+        "44",
+        "85"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 480,
+      "ancestors": [
+        "17",
+        "43"
+      ]
+    },
+    "70": {
+      "generation": 489,
+      "ancestors": [
+        "73",
+        "97"
+      ]
+    },
+    "71": {
+      "generation": 491,
+      "ancestors": [
+        "38",
+        "13"
+      ]
+    },
+    "72": {
+      "generation": 484,
+      "ancestors": [
+        "45",
+        "40"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 489,
+      "ancestors": [
+        "28",
+        "45"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 491,
+      "ancestors": [
+        "6",
+        "44"
+      ]
+    },
+    "77": {
+      "generation": 480,
+      "ancestors": [
+        "24",
+        "29"
+      ]
+    },
+    "78": {
+      "generation": 482,
+      "ancestors": [
+        "3",
+        "15"
+      ]
+    },
+    "79": {
+      "generation": 457,
+      "ancestors": [
+        "99",
+        "59"
+      ]
+    },
+    "80": {
+      "generation": 487,
+      "ancestors": [
+        "78",
+        "75"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 484,
+      "ancestors": [
+        "74",
+        "40"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 477,
+      "ancestors": [
+        "79",
+        "18"
+      ]
+    },
+    "85": {
+      "generation": 487,
+      "ancestors": [
+        "61",
+        "53"
+      ]
+    },
+    "86": {
+      "generation": 483,
+      "ancestors": [
+        "13",
+        "57"
+      ]
+    },
+    "87": {
+      "generation": 482,
+      "ancestors": [
+        "58",
+        "2"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 490,
+      "ancestors": [
+        "59",
+        "86"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 485,
+      "ancestors": [
+        "73",
+        "55"
+      ]
+    },
+    "92": {
+      "generation": 491,
+      "ancestors": [
+        "77",
+        "23"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "7"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 488,
+      "ancestors": [
+        "94",
+        "88"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 472,
+      "ancestors": [
+        "49",
+        "43"
+      ]
+    },
+    "100": {
+      "generation": 488,
+      "ancestors": [
+        "62",
+        "34"
+      ]
+    }
+  },
+  "491": {
+    "1": {
+      "generation": 482,
+      "ancestors": [
+        "8",
+        "23"
+      ]
+    },
+    "2": {
+      "generation": 469,
+      "ancestors": [
+        "37",
+        "41"
+      ]
+    },
+    "3": {
+      "generation": 492,
+      "ancestors": [
+        "14",
+        "37"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 486,
+      "ancestors": [
+        "90",
+        "77"
+      ]
+    },
+    "6": {
+      "generation": 471,
+      "ancestors": [
+        "24",
+        "57"
+      ]
+    },
+    "7": {
+      "generation": 491,
+      "ancestors": [
+        "80",
+        "35"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 491,
+      "ancestors": [
+        "60",
+        "65"
+      ]
+    },
+    "10": {
+      "generation": 490,
+      "ancestors": [
+        "60",
+        "49"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 490,
+      "ancestors": [
+        "46",
+        "86"
+      ]
+    },
+    "13": {
+      "generation": 466,
+      "ancestors": [
+        "49",
+        "29"
+      ]
+    },
+    "14": {
+      "generation": 484,
+      "ancestors": [
+        "77",
+        "54"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 489,
+      "ancestors": [
+        "56",
+        "14"
+      ]
+    },
+    "17": {
+      "generation": 490,
+      "ancestors": [
+        "82",
+        "91"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 492,
+      "ancestors": [
+        "43",
+        "58"
+      ]
+    },
+    "20": {
+      "generation": 489,
+      "ancestors": [
+        "80",
+        "22"
+      ]
+    },
+    "21": {
+      "generation": 472,
+      "ancestors": [
+        "57",
+        "57"
+      ]
+    },
+    "22": {
+      "generation": 476,
+      "ancestors": [
+        "61",
+        "8"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 492,
+      "ancestors": [
+        "91",
+        "10"
+      ]
+    },
+    "25": {
+      "generation": 490,
+      "ancestors": [
+        "27",
+        "19"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 491,
+      "ancestors": [
+        "30",
+        "32"
+      ]
+    },
+    "28": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "48"
+      ]
+    },
+    "29": {
+      "generation": 486,
+      "ancestors": [
+        "34",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 491,
+      "ancestors": [
+        "64",
+        "13"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 488,
+      "ancestors": [
+        "41",
+        "68"
+      ]
+    },
+    "34": {
+      "generation": 474,
+      "ancestors": [
+        "92",
+        "57"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "25"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 492,
+      "ancestors": [
+        "32",
+        "77"
+      ]
+    },
+    "41": {
+      "generation": 465,
+      "ancestors": [
+        "77",
+        "26"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 476,
+      "ancestors": [
+        "31",
+        "53"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 484,
+      "ancestors": [
+        "80",
+        "77"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 491,
+      "ancestors": [
+        "8",
+        "74"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 482,
+      "ancestors": [
+        "50",
+        "34"
+      ]
+    },
+    "53": {
+      "generation": 490,
+      "ancestors": [
+        "33",
+        "92"
+      ]
+    },
+    "54": {
+      "generation": 483,
+      "ancestors": [
+        "11",
+        "22"
+      ]
+    },
+    "55": {
+      "generation": 492,
+      "ancestors": [
+        "86",
+        "31"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 464,
+      "ancestors": [
+        "95",
+        "29"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 489,
+      "ancestors": [
+        "87",
+        "80"
+      ]
+    },
+    "60": {
+      "generation": 487,
+      "ancestors": [
+        "11",
+        "71"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 487,
+      "ancestors": [
+        "94",
+        "14"
+      ]
+    },
+    "63": {
+      "generation": 491,
+      "ancestors": [
+        "19",
+        "100"
+      ]
+    },
+    "64": {
+      "generation": 488,
+      "ancestors": [
+        "44",
+        "85"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 480,
+      "ancestors": [
+        "17",
+        "43"
+      ]
+    },
+    "70": {
+      "generation": 489,
+      "ancestors": [
+        "73",
+        "97"
+      ]
+    },
+    "71": {
+      "generation": 491,
+      "ancestors": [
+        "38",
+        "13"
+      ]
+    },
+    "72": {
+      "generation": 484,
+      "ancestors": [
+        "45",
+        "40"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 489,
+      "ancestors": [
+        "28",
+        "45"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 491,
+      "ancestors": [
+        "6",
+        "44"
+      ]
+    },
+    "77": {
+      "generation": 480,
+      "ancestors": [
+        "24",
+        "29"
+      ]
+    },
+    "78": {
+      "generation": 482,
+      "ancestors": [
+        "3",
+        "15"
+      ]
+    },
+    "79": {
+      "generation": 457,
+      "ancestors": [
+        "99",
+        "59"
+      ]
+    },
+    "80": {
+      "generation": 492,
+      "ancestors": [
+        "26",
+        "76"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 484,
+      "ancestors": [
+        "74",
+        "40"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 492,
+      "ancestors": [
+        "74",
+        "95"
+      ]
+    },
+    "85": {
+      "generation": 487,
+      "ancestors": [
+        "61",
+        "53"
+      ]
+    },
+    "86": {
+      "generation": 483,
+      "ancestors": [
+        "13",
+        "57"
+      ]
+    },
+    "87": {
+      "generation": 482,
+      "ancestors": [
+        "58",
+        "2"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 490,
+      "ancestors": [
+        "59",
+        "86"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 485,
+      "ancestors": [
+        "73",
+        "55"
+      ]
+    },
+    "92": {
+      "generation": 491,
+      "ancestors": [
+        "77",
+        "23"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "7"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 488,
+      "ancestors": [
+        "94",
+        "88"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 492,
+      "ancestors": [
+        "82",
+        "82"
+      ]
+    },
+    "100": {
+      "generation": 488,
+      "ancestors": [
+        "62",
+        "34"
+      ]
+    }
+  },
+  "492": {
+    "1": {
+      "generation": 482,
+      "ancestors": [
+        "8",
+        "23"
+      ]
+    },
+    "2": {
+      "generation": 469,
+      "ancestors": [
+        "37",
+        "41"
+      ]
+    },
+    "3": {
+      "generation": 492,
+      "ancestors": [
+        "14",
+        "37"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 486,
+      "ancestors": [
+        "90",
+        "77"
+      ]
+    },
+    "6": {
+      "generation": 471,
+      "ancestors": [
+        "24",
+        "57"
+      ]
+    },
+    "7": {
+      "generation": 491,
+      "ancestors": [
+        "80",
+        "35"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 491,
+      "ancestors": [
+        "60",
+        "65"
+      ]
+    },
+    "10": {
+      "generation": 493,
+      "ancestors": [
+        "24",
+        "47"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 490,
+      "ancestors": [
+        "46",
+        "86"
+      ]
+    },
+    "13": {
+      "generation": 466,
+      "ancestors": [
+        "49",
+        "29"
+      ]
+    },
+    "14": {
+      "generation": 484,
+      "ancestors": [
+        "77",
+        "54"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 493,
+      "ancestors": [
+        "12",
+        "46"
+      ]
+    },
+    "17": {
+      "generation": 490,
+      "ancestors": [
+        "82",
+        "91"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 492,
+      "ancestors": [
+        "43",
+        "58"
+      ]
+    },
+    "20": {
+      "generation": 489,
+      "ancestors": [
+        "80",
+        "22"
+      ]
+    },
+    "21": {
+      "generation": 472,
+      "ancestors": [
+        "57",
+        "57"
+      ]
+    },
+    "22": {
+      "generation": 476,
+      "ancestors": [
+        "61",
+        "8"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 492,
+      "ancestors": [
+        "91",
+        "10"
+      ]
+    },
+    "25": {
+      "generation": 493,
+      "ancestors": [
+        "19",
+        "91"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 491,
+      "ancestors": [
+        "30",
+        "32"
+      ]
+    },
+    "28": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "48"
+      ]
+    },
+    "29": {
+      "generation": 486,
+      "ancestors": [
+        "34",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 491,
+      "ancestors": [
+        "64",
+        "13"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 488,
+      "ancestors": [
+        "41",
+        "68"
+      ]
+    },
+    "34": {
+      "generation": 474,
+      "ancestors": [
+        "92",
+        "57"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "25"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 492,
+      "ancestors": [
+        "32",
+        "77"
+      ]
+    },
+    "41": {
+      "generation": 465,
+      "ancestors": [
+        "77",
+        "26"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 476,
+      "ancestors": [
+        "31",
+        "53"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 484,
+      "ancestors": [
+        "80",
+        "77"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 493,
+      "ancestors": [
+        "41",
+        "77"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 482,
+      "ancestors": [
+        "50",
+        "34"
+      ]
+    },
+    "53": {
+      "generation": 493,
+      "ancestors": [
+        "62",
+        "67"
+      ]
+    },
+    "54": {
+      "generation": 483,
+      "ancestors": [
+        "11",
+        "22"
+      ]
+    },
+    "55": {
+      "generation": 492,
+      "ancestors": [
+        "86",
+        "31"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 464,
+      "ancestors": [
+        "95",
+        "29"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 489,
+      "ancestors": [
+        "87",
+        "80"
+      ]
+    },
+    "60": {
+      "generation": 493,
+      "ancestors": [
+        "9",
+        "45"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 487,
+      "ancestors": [
+        "94",
+        "14"
+      ]
+    },
+    "63": {
+      "generation": 491,
+      "ancestors": [
+        "19",
+        "100"
+      ]
+    },
+    "64": {
+      "generation": 488,
+      "ancestors": [
+        "44",
+        "85"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 480,
+      "ancestors": [
+        "17",
+        "43"
+      ]
+    },
+    "70": {
+      "generation": 493,
+      "ancestors": [
+        "65",
+        "58"
+      ]
+    },
+    "71": {
+      "generation": 491,
+      "ancestors": [
+        "38",
+        "13"
+      ]
+    },
+    "72": {
+      "generation": 484,
+      "ancestors": [
+        "45",
+        "40"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 493,
+      "ancestors": [
+        "68",
+        "47"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 491,
+      "ancestors": [
+        "6",
+        "44"
+      ]
+    },
+    "77": {
+      "generation": 480,
+      "ancestors": [
+        "24",
+        "29"
+      ]
+    },
+    "78": {
+      "generation": 482,
+      "ancestors": [
+        "3",
+        "15"
+      ]
+    },
+    "79": {
+      "generation": 457,
+      "ancestors": [
+        "99",
+        "59"
+      ]
+    },
+    "80": {
+      "generation": 492,
+      "ancestors": [
+        "26",
+        "76"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 484,
+      "ancestors": [
+        "74",
+        "40"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 492,
+      "ancestors": [
+        "74",
+        "95"
+      ]
+    },
+    "85": {
+      "generation": 487,
+      "ancestors": [
+        "61",
+        "53"
+      ]
+    },
+    "86": {
+      "generation": 483,
+      "ancestors": [
+        "13",
+        "57"
+      ]
+    },
+    "87": {
+      "generation": 482,
+      "ancestors": [
+        "58",
+        "2"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 490,
+      "ancestors": [
+        "59",
+        "86"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 485,
+      "ancestors": [
+        "73",
+        "55"
+      ]
+    },
+    "92": {
+      "generation": 491,
+      "ancestors": [
+        "77",
+        "23"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 493,
+      "ancestors": [
+        "54",
+        "58"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 493,
+      "ancestors": [
+        "59",
+        "71"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 492,
+      "ancestors": [
+        "82",
+        "82"
+      ]
+    },
+    "100": {
+      "generation": 488,
+      "ancestors": [
+        "62",
+        "34"
+      ]
+    }
+  },
+  "493": {
+    "1": {
+      "generation": 482,
+      "ancestors": [
+        "8",
+        "23"
+      ]
+    },
+    "2": {
+      "generation": 494,
+      "ancestors": [
+        "19",
+        "31"
+      ]
+    },
+    "3": {
+      "generation": 492,
+      "ancestors": [
+        "14",
+        "37"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 486,
+      "ancestors": [
+        "90",
+        "77"
+      ]
+    },
+    "6": {
+      "generation": 494,
+      "ancestors": [
+        "75",
+        "88"
+      ]
+    },
+    "7": {
+      "generation": 491,
+      "ancestors": [
+        "80",
+        "35"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 491,
+      "ancestors": [
+        "60",
+        "65"
+      ]
+    },
+    "10": {
+      "generation": 493,
+      "ancestors": [
+        "24",
+        "47"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 490,
+      "ancestors": [
+        "46",
+        "86"
+      ]
+    },
+    "13": {
+      "generation": 494,
+      "ancestors": [
+        "80",
+        "53"
+      ]
+    },
+    "14": {
+      "generation": 484,
+      "ancestors": [
+        "77",
+        "54"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 493,
+      "ancestors": [
+        "12",
+        "46"
+      ]
+    },
+    "17": {
+      "generation": 490,
+      "ancestors": [
+        "82",
+        "91"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 492,
+      "ancestors": [
+        "43",
+        "58"
+      ]
+    },
+    "20": {
+      "generation": 489,
+      "ancestors": [
+        "80",
+        "22"
+      ]
+    },
+    "21": {
+      "generation": 494,
+      "ancestors": [
+        "64",
+        "8"
+      ]
+    },
+    "22": {
+      "generation": 476,
+      "ancestors": [
+        "61",
+        "8"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 494,
+      "ancestors": [
+        "20",
+        "90"
+      ]
+    },
+    "25": {
+      "generation": 493,
+      "ancestors": [
+        "19",
+        "91"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 491,
+      "ancestors": [
+        "30",
+        "32"
+      ]
+    },
+    "28": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "48"
+      ]
+    },
+    "29": {
+      "generation": 486,
+      "ancestors": [
+        "34",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 491,
+      "ancestors": [
+        "64",
+        "13"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 488,
+      "ancestors": [
+        "41",
+        "68"
+      ]
+    },
+    "34": {
+      "generation": 494,
+      "ancestors": [
+        "52",
+        "55"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 494,
+      "ancestors": [
+        "51",
+        "60"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 492,
+      "ancestors": [
+        "32",
+        "77"
+      ]
+    },
+    "41": {
+      "generation": 494,
+      "ancestors": [
+        "8",
+        "55"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 476,
+      "ancestors": [
+        "31",
+        "53"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 484,
+      "ancestors": [
+        "80",
+        "77"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 493,
+      "ancestors": [
+        "41",
+        "77"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 482,
+      "ancestors": [
+        "50",
+        "34"
+      ]
+    },
+    "53": {
+      "generation": 493,
+      "ancestors": [
+        "62",
+        "67"
+      ]
+    },
+    "54": {
+      "generation": 483,
+      "ancestors": [
+        "11",
+        "22"
+      ]
+    },
+    "55": {
+      "generation": 492,
+      "ancestors": [
+        "86",
+        "31"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 494,
+      "ancestors": [
+        "76",
+        "15"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 489,
+      "ancestors": [
+        "87",
+        "80"
+      ]
+    },
+    "60": {
+      "generation": 493,
+      "ancestors": [
+        "9",
+        "45"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 487,
+      "ancestors": [
+        "94",
+        "14"
+      ]
+    },
+    "63": {
+      "generation": 491,
+      "ancestors": [
+        "19",
+        "100"
+      ]
+    },
+    "64": {
+      "generation": 488,
+      "ancestors": [
+        "44",
+        "85"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 480,
+      "ancestors": [
+        "17",
+        "43"
+      ]
+    },
+    "70": {
+      "generation": 493,
+      "ancestors": [
+        "65",
+        "58"
+      ]
+    },
+    "71": {
+      "generation": 491,
+      "ancestors": [
+        "38",
+        "13"
+      ]
+    },
+    "72": {
+      "generation": 484,
+      "ancestors": [
+        "45",
+        "40"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 493,
+      "ancestors": [
+        "68",
+        "47"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 491,
+      "ancestors": [
+        "6",
+        "44"
+      ]
+    },
+    "77": {
+      "generation": 480,
+      "ancestors": [
+        "24",
+        "29"
+      ]
+    },
+    "78": {
+      "generation": 482,
+      "ancestors": [
+        "3",
+        "15"
+      ]
+    },
+    "79": {
+      "generation": 494,
+      "ancestors": [
+        "93",
+        "61"
+      ]
+    },
+    "80": {
+      "generation": 492,
+      "ancestors": [
+        "26",
+        "76"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 484,
+      "ancestors": [
+        "74",
+        "40"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 492,
+      "ancestors": [
+        "74",
+        "95"
+      ]
+    },
+    "85": {
+      "generation": 487,
+      "ancestors": [
+        "61",
+        "53"
+      ]
+    },
+    "86": {
+      "generation": 483,
+      "ancestors": [
+        "13",
+        "57"
+      ]
+    },
+    "87": {
+      "generation": 482,
+      "ancestors": [
+        "58",
+        "2"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 490,
+      "ancestors": [
+        "59",
+        "86"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 485,
+      "ancestors": [
+        "73",
+        "55"
+      ]
+    },
+    "92": {
+      "generation": 491,
+      "ancestors": [
+        "77",
+        "23"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 493,
+      "ancestors": [
+        "54",
+        "58"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 493,
+      "ancestors": [
+        "59",
+        "71"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 492,
+      "ancestors": [
+        "82",
+        "82"
+      ]
+    },
+    "100": {
+      "generation": 488,
+      "ancestors": [
+        "62",
+        "34"
+      ]
+    }
+  },
+  "494": {
+    "1": {
+      "generation": 495,
+      "ancestors": [
+        "88",
+        "27"
+      ]
+    },
+    "2": {
+      "generation": 494,
+      "ancestors": [
+        "19",
+        "31"
+      ]
+    },
+    "3": {
+      "generation": 492,
+      "ancestors": [
+        "14",
+        "37"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 486,
+      "ancestors": [
+        "90",
+        "77"
+      ]
+    },
+    "6": {
+      "generation": 494,
+      "ancestors": [
+        "75",
+        "88"
+      ]
+    },
+    "7": {
+      "generation": 495,
+      "ancestors": [
+        "5",
+        "19"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 491,
+      "ancestors": [
+        "60",
+        "65"
+      ]
+    },
+    "10": {
+      "generation": 493,
+      "ancestors": [
+        "24",
+        "47"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 490,
+      "ancestors": [
+        "46",
+        "86"
+      ]
+    },
+    "13": {
+      "generation": 494,
+      "ancestors": [
+        "80",
+        "53"
+      ]
+    },
+    "14": {
+      "generation": 484,
+      "ancestors": [
+        "77",
+        "54"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 493,
+      "ancestors": [
+        "12",
+        "46"
+      ]
+    },
+    "17": {
+      "generation": 495,
+      "ancestors": [
+        "75",
+        "83"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 492,
+      "ancestors": [
+        "43",
+        "58"
+      ]
+    },
+    "20": {
+      "generation": 489,
+      "ancestors": [
+        "80",
+        "22"
+      ]
+    },
+    "21": {
+      "generation": 494,
+      "ancestors": [
+        "64",
+        "8"
+      ]
+    },
+    "22": {
+      "generation": 476,
+      "ancestors": [
+        "61",
+        "8"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 494,
+      "ancestors": [
+        "20",
+        "90"
+      ]
+    },
+    "25": {
+      "generation": 493,
+      "ancestors": [
+        "19",
+        "91"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 491,
+      "ancestors": [
+        "30",
+        "32"
+      ]
+    },
+    "28": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "48"
+      ]
+    },
+    "29": {
+      "generation": 495,
+      "ancestors": [
+        "27",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 491,
+      "ancestors": [
+        "64",
+        "13"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 488,
+      "ancestors": [
+        "41",
+        "68"
+      ]
+    },
+    "34": {
+      "generation": 494,
+      "ancestors": [
+        "52",
+        "55"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 494,
+      "ancestors": [
+        "51",
+        "60"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 492,
+      "ancestors": [
+        "32",
+        "77"
+      ]
+    },
+    "41": {
+      "generation": 494,
+      "ancestors": [
+        "8",
+        "55"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 476,
+      "ancestors": [
+        "31",
+        "53"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 484,
+      "ancestors": [
+        "80",
+        "77"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 493,
+      "ancestors": [
+        "41",
+        "77"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 482,
+      "ancestors": [
+        "50",
+        "34"
+      ]
+    },
+    "53": {
+      "generation": 493,
+      "ancestors": [
+        "62",
+        "67"
+      ]
+    },
+    "54": {
+      "generation": 483,
+      "ancestors": [
+        "11",
+        "22"
+      ]
+    },
+    "55": {
+      "generation": 495,
+      "ancestors": [
+        "38",
+        "63"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 494,
+      "ancestors": [
+        "76",
+        "15"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 489,
+      "ancestors": [
+        "87",
+        "80"
+      ]
+    },
+    "60": {
+      "generation": 493,
+      "ancestors": [
+        "9",
+        "45"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 487,
+      "ancestors": [
+        "94",
+        "14"
+      ]
+    },
+    "63": {
+      "generation": 491,
+      "ancestors": [
+        "19",
+        "100"
+      ]
+    },
+    "64": {
+      "generation": 495,
+      "ancestors": [
+        "37",
+        "79"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 480,
+      "ancestors": [
+        "17",
+        "43"
+      ]
+    },
+    "70": {
+      "generation": 495,
+      "ancestors": [
+        "91",
+        "24"
+      ]
+    },
+    "71": {
+      "generation": 495,
+      "ancestors": [
+        "49",
+        "75"
+      ]
+    },
+    "72": {
+      "generation": 484,
+      "ancestors": [
+        "45",
+        "40"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 495,
+      "ancestors": [
+        "21",
+        "19"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 491,
+      "ancestors": [
+        "6",
+        "44"
+      ]
+    },
+    "77": {
+      "generation": 495,
+      "ancestors": [
+        "30",
+        "88"
+      ]
+    },
+    "78": {
+      "generation": 482,
+      "ancestors": [
+        "3",
+        "15"
+      ]
+    },
+    "79": {
+      "generation": 494,
+      "ancestors": [
+        "93",
+        "61"
+      ]
+    },
+    "80": {
+      "generation": 492,
+      "ancestors": [
+        "26",
+        "76"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 484,
+      "ancestors": [
+        "74",
+        "40"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 492,
+      "ancestors": [
+        "74",
+        "95"
+      ]
+    },
+    "85": {
+      "generation": 487,
+      "ancestors": [
+        "61",
+        "53"
+      ]
+    },
+    "86": {
+      "generation": 483,
+      "ancestors": [
+        "13",
+        "57"
+      ]
+    },
+    "87": {
+      "generation": 482,
+      "ancestors": [
+        "58",
+        "2"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 490,
+      "ancestors": [
+        "59",
+        "86"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 485,
+      "ancestors": [
+        "73",
+        "55"
+      ]
+    },
+    "92": {
+      "generation": 491,
+      "ancestors": [
+        "77",
+        "23"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 493,
+      "ancestors": [
+        "54",
+        "58"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 493,
+      "ancestors": [
+        "59",
+        "71"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 492,
+      "ancestors": [
+        "82",
+        "82"
+      ]
+    },
+    "100": {
+      "generation": 488,
+      "ancestors": [
+        "62",
+        "34"
+      ]
+    }
+  },
+  "495": {
+    "1": {
+      "generation": 495,
+      "ancestors": [
+        "88",
+        "27"
+      ]
+    },
+    "2": {
+      "generation": 494,
+      "ancestors": [
+        "19",
+        "31"
+      ]
+    },
+    "3": {
+      "generation": 492,
+      "ancestors": [
+        "14",
+        "37"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 486,
+      "ancestors": [
+        "90",
+        "77"
+      ]
+    },
+    "6": {
+      "generation": 494,
+      "ancestors": [
+        "75",
+        "88"
+      ]
+    },
+    "7": {
+      "generation": 495,
+      "ancestors": [
+        "5",
+        "19"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 491,
+      "ancestors": [
+        "60",
+        "65"
+      ]
+    },
+    "10": {
+      "generation": 493,
+      "ancestors": [
+        "24",
+        "47"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 490,
+      "ancestors": [
+        "46",
+        "86"
+      ]
+    },
+    "13": {
+      "generation": 494,
+      "ancestors": [
+        "80",
+        "53"
+      ]
+    },
+    "14": {
+      "generation": 484,
+      "ancestors": [
+        "77",
+        "54"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 493,
+      "ancestors": [
+        "12",
+        "46"
+      ]
+    },
+    "17": {
+      "generation": 495,
+      "ancestors": [
+        "75",
+        "83"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 492,
+      "ancestors": [
+        "43",
+        "58"
+      ]
+    },
+    "20": {
+      "generation": 489,
+      "ancestors": [
+        "80",
+        "22"
+      ]
+    },
+    "21": {
+      "generation": 494,
+      "ancestors": [
+        "64",
+        "8"
+      ]
+    },
+    "22": {
+      "generation": 496,
+      "ancestors": [
+        "75",
+        "89"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 494,
+      "ancestors": [
+        "20",
+        "90"
+      ]
+    },
+    "25": {
+      "generation": 493,
+      "ancestors": [
+        "19",
+        "91"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 491,
+      "ancestors": [
+        "30",
+        "32"
+      ]
+    },
+    "28": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "48"
+      ]
+    },
+    "29": {
+      "generation": 495,
+      "ancestors": [
+        "27",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 491,
+      "ancestors": [
+        "64",
+        "13"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 488,
+      "ancestors": [
+        "41",
+        "68"
+      ]
+    },
+    "34": {
+      "generation": 494,
+      "ancestors": [
+        "52",
+        "55"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 494,
+      "ancestors": [
+        "51",
+        "60"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 492,
+      "ancestors": [
+        "32",
+        "77"
+      ]
+    },
+    "41": {
+      "generation": 494,
+      "ancestors": [
+        "8",
+        "55"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 496,
+      "ancestors": [
+        "35",
+        "13"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 484,
+      "ancestors": [
+        "80",
+        "77"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 493,
+      "ancestors": [
+        "41",
+        "77"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 496,
+      "ancestors": [
+        "89",
+        "2"
+      ]
+    },
+    "53": {
+      "generation": 493,
+      "ancestors": [
+        "62",
+        "67"
+      ]
+    },
+    "54": {
+      "generation": 496,
+      "ancestors": [
+        "26",
+        "11"
+      ]
+    },
+    "55": {
+      "generation": 495,
+      "ancestors": [
+        "38",
+        "63"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 494,
+      "ancestors": [
+        "76",
+        "15"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 489,
+      "ancestors": [
+        "87",
+        "80"
+      ]
+    },
+    "60": {
+      "generation": 493,
+      "ancestors": [
+        "9",
+        "45"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 487,
+      "ancestors": [
+        "94",
+        "14"
+      ]
+    },
+    "63": {
+      "generation": 491,
+      "ancestors": [
+        "19",
+        "100"
+      ]
+    },
+    "64": {
+      "generation": 495,
+      "ancestors": [
+        "37",
+        "79"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 496,
+      "ancestors": [
+        "53",
+        "35"
+      ]
+    },
+    "70": {
+      "generation": 495,
+      "ancestors": [
+        "91",
+        "24"
+      ]
+    },
+    "71": {
+      "generation": 495,
+      "ancestors": [
+        "49",
+        "75"
+      ]
+    },
+    "72": {
+      "generation": 496,
+      "ancestors": [
+        "56",
+        "76"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 495,
+      "ancestors": [
+        "21",
+        "19"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 491,
+      "ancestors": [
+        "6",
+        "44"
+      ]
+    },
+    "77": {
+      "generation": 495,
+      "ancestors": [
+        "30",
+        "88"
+      ]
+    },
+    "78": {
+      "generation": 496,
+      "ancestors": [
+        "77",
+        "83"
+      ]
+    },
+    "79": {
+      "generation": 494,
+      "ancestors": [
+        "93",
+        "61"
+      ]
+    },
+    "80": {
+      "generation": 492,
+      "ancestors": [
+        "26",
+        "76"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 496,
+      "ancestors": [
+        "95",
+        "98"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 492,
+      "ancestors": [
+        "74",
+        "95"
+      ]
+    },
+    "85": {
+      "generation": 487,
+      "ancestors": [
+        "61",
+        "53"
+      ]
+    },
+    "86": {
+      "generation": 496,
+      "ancestors": [
+        "95",
+        "68"
+      ]
+    },
+    "87": {
+      "generation": 496,
+      "ancestors": [
+        "89",
+        "49"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 490,
+      "ancestors": [
+        "59",
+        "86"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 485,
+      "ancestors": [
+        "73",
+        "55"
+      ]
+    },
+    "92": {
+      "generation": 491,
+      "ancestors": [
+        "77",
+        "23"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 493,
+      "ancestors": [
+        "54",
+        "58"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 493,
+      "ancestors": [
+        "59",
+        "71"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 492,
+      "ancestors": [
+        "82",
+        "82"
+      ]
+    },
+    "100": {
+      "generation": 488,
+      "ancestors": [
+        "62",
+        "34"
+      ]
+    }
+  },
+  "496": {
+    "1": {
+      "generation": 495,
+      "ancestors": [
+        "88",
+        "27"
+      ]
+    },
+    "2": {
+      "generation": 494,
+      "ancestors": [
+        "19",
+        "31"
+      ]
+    },
+    "3": {
+      "generation": 492,
+      "ancestors": [
+        "14",
+        "37"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 497,
+      "ancestors": [
+        "71",
+        "90"
+      ]
+    },
+    "6": {
+      "generation": 494,
+      "ancestors": [
+        "75",
+        "88"
+      ]
+    },
+    "7": {
+      "generation": 495,
+      "ancestors": [
+        "5",
+        "19"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 491,
+      "ancestors": [
+        "60",
+        "65"
+      ]
+    },
+    "10": {
+      "generation": 493,
+      "ancestors": [
+        "24",
+        "47"
+      ]
+    },
+    "11": {
+      "generation": 486,
+      "ancestors": [
+        "31",
+        "42"
+      ]
+    },
+    "12": {
+      "generation": 490,
+      "ancestors": [
+        "46",
+        "86"
+      ]
+    },
+    "13": {
+      "generation": 494,
+      "ancestors": [
+        "80",
+        "53"
+      ]
+    },
+    "14": {
+      "generation": 497,
+      "ancestors": [
+        "16",
+        "13"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 493,
+      "ancestors": [
+        "12",
+        "46"
+      ]
+    },
+    "17": {
+      "generation": 495,
+      "ancestors": [
+        "75",
+        "83"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 492,
+      "ancestors": [
+        "43",
+        "58"
+      ]
+    },
+    "20": {
+      "generation": 497,
+      "ancestors": [
+        "70",
+        "94"
+      ]
+    },
+    "21": {
+      "generation": 494,
+      "ancestors": [
+        "64",
+        "8"
+      ]
+    },
+    "22": {
+      "generation": 496,
+      "ancestors": [
+        "75",
+        "89"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 494,
+      "ancestors": [
+        "20",
+        "90"
+      ]
+    },
+    "25": {
+      "generation": 493,
+      "ancestors": [
+        "19",
+        "91"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 491,
+      "ancestors": [
+        "30",
+        "32"
+      ]
+    },
+    "28": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "48"
+      ]
+    },
+    "29": {
+      "generation": 495,
+      "ancestors": [
+        "27",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 491,
+      "ancestors": [
+        "64",
+        "13"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 488,
+      "ancestors": [
+        "41",
+        "68"
+      ]
+    },
+    "34": {
+      "generation": 494,
+      "ancestors": [
+        "52",
+        "55"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 494,
+      "ancestors": [
+        "51",
+        "60"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 492,
+      "ancestors": [
+        "32",
+        "77"
+      ]
+    },
+    "41": {
+      "generation": 494,
+      "ancestors": [
+        "8",
+        "55"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 497,
+      "ancestors": [
+        "37",
+        "52"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 497,
+      "ancestors": [
+        "34",
+        "96"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 493,
+      "ancestors": [
+        "41",
+        "77"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 496,
+      "ancestors": [
+        "89",
+        "2"
+      ]
+    },
+    "53": {
+      "generation": 493,
+      "ancestors": [
+        "62",
+        "67"
+      ]
+    },
+    "54": {
+      "generation": 496,
+      "ancestors": [
+        "26",
+        "11"
+      ]
+    },
+    "55": {
+      "generation": 495,
+      "ancestors": [
+        "38",
+        "63"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 494,
+      "ancestors": [
+        "76",
+        "15"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 497,
+      "ancestors": [
+        "37",
+        "31"
+      ]
+    },
+    "60": {
+      "generation": 493,
+      "ancestors": [
+        "9",
+        "45"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 497,
+      "ancestors": [
+        "68",
+        "81"
+      ]
+    },
+    "63": {
+      "generation": 491,
+      "ancestors": [
+        "19",
+        "100"
+      ]
+    },
+    "64": {
+      "generation": 495,
+      "ancestors": [
+        "37",
+        "79"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 496,
+      "ancestors": [
+        "53",
+        "35"
+      ]
+    },
+    "70": {
+      "generation": 495,
+      "ancestors": [
+        "91",
+        "24"
+      ]
+    },
+    "71": {
+      "generation": 495,
+      "ancestors": [
+        "49",
+        "75"
+      ]
+    },
+    "72": {
+      "generation": 496,
+      "ancestors": [
+        "56",
+        "76"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 495,
+      "ancestors": [
+        "21",
+        "19"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 491,
+      "ancestors": [
+        "6",
+        "44"
+      ]
+    },
+    "77": {
+      "generation": 495,
+      "ancestors": [
+        "30",
+        "88"
+      ]
+    },
+    "78": {
+      "generation": 496,
+      "ancestors": [
+        "77",
+        "83"
+      ]
+    },
+    "79": {
+      "generation": 494,
+      "ancestors": [
+        "93",
+        "61"
+      ]
+    },
+    "80": {
+      "generation": 492,
+      "ancestors": [
+        "26",
+        "76"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 496,
+      "ancestors": [
+        "95",
+        "98"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 492,
+      "ancestors": [
+        "74",
+        "95"
+      ]
+    },
+    "85": {
+      "generation": 497,
+      "ancestors": [
+        "57",
+        "1"
+      ]
+    },
+    "86": {
+      "generation": 496,
+      "ancestors": [
+        "95",
+        "68"
+      ]
+    },
+    "87": {
+      "generation": 496,
+      "ancestors": [
+        "89",
+        "49"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 490,
+      "ancestors": [
+        "59",
+        "86"
+      ]
+    },
+    "90": {
+      "generation": 477,
+      "ancestors": [
+        "64",
+        "44"
+      ]
+    },
+    "91": {
+      "generation": 497,
+      "ancestors": [
+        "71",
+        "50"
+      ]
+    },
+    "92": {
+      "generation": 491,
+      "ancestors": [
+        "77",
+        "23"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 493,
+      "ancestors": [
+        "54",
+        "58"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 493,
+      "ancestors": [
+        "59",
+        "71"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 492,
+      "ancestors": [
+        "82",
+        "82"
+      ]
+    },
+    "100": {
+      "generation": 497,
+      "ancestors": [
+        "42",
+        "16"
+      ]
+    }
+  },
+  "497": {
+    "1": {
+      "generation": 495,
+      "ancestors": [
+        "88",
+        "27"
+      ]
+    },
+    "2": {
+      "generation": 494,
+      "ancestors": [
+        "19",
+        "31"
+      ]
+    },
+    "3": {
+      "generation": 492,
+      "ancestors": [
+        "14",
+        "37"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 497,
+      "ancestors": [
+        "71",
+        "90"
+      ]
+    },
+    "6": {
+      "generation": 494,
+      "ancestors": [
+        "75",
+        "88"
+      ]
+    },
+    "7": {
+      "generation": 495,
+      "ancestors": [
+        "5",
+        "19"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 491,
+      "ancestors": [
+        "60",
+        "65"
+      ]
+    },
+    "10": {
+      "generation": 493,
+      "ancestors": [
+        "24",
+        "47"
+      ]
+    },
+    "11": {
+      "generation": 498,
+      "ancestors": [
+        "45",
+        "17"
+      ]
+    },
+    "12": {
+      "generation": 498,
+      "ancestors": [
+        "1",
+        "94"
+      ]
+    },
+    "13": {
+      "generation": 494,
+      "ancestors": [
+        "80",
+        "53"
+      ]
+    },
+    "14": {
+      "generation": 497,
+      "ancestors": [
+        "16",
+        "13"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 498,
+      "ancestors": [
+        "56",
+        "26"
+      ]
+    },
+    "17": {
+      "generation": 495,
+      "ancestors": [
+        "75",
+        "83"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 492,
+      "ancestors": [
+        "43",
+        "58"
+      ]
+    },
+    "20": {
+      "generation": 497,
+      "ancestors": [
+        "70",
+        "94"
+      ]
+    },
+    "21": {
+      "generation": 494,
+      "ancestors": [
+        "64",
+        "8"
+      ]
+    },
+    "22": {
+      "generation": 498,
+      "ancestors": [
+        "100",
+        "25"
+      ]
+    },
+    "23": {
+      "generation": 478,
+      "ancestors": [
+        "68",
+        "10"
+      ]
+    },
+    "24": {
+      "generation": 494,
+      "ancestors": [
+        "20",
+        "90"
+      ]
+    },
+    "25": {
+      "generation": 493,
+      "ancestors": [
+        "19",
+        "91"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 491,
+      "ancestors": [
+        "30",
+        "32"
+      ]
+    },
+    "28": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "48"
+      ]
+    },
+    "29": {
+      "generation": 495,
+      "ancestors": [
+        "27",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 476,
+      "ancestors": [
+        "28",
+        "18"
+      ]
+    },
+    "31": {
+      "generation": 491,
+      "ancestors": [
+        "64",
+        "13"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 498,
+      "ancestors": [
+        "10",
+        "61"
+      ]
+    },
+    "34": {
+      "generation": 494,
+      "ancestors": [
+        "52",
+        "55"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 494,
+      "ancestors": [
+        "51",
+        "60"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 492,
+      "ancestors": [
+        "32",
+        "77"
+      ]
+    },
+    "41": {
+      "generation": 494,
+      "ancestors": [
+        "8",
+        "55"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 497,
+      "ancestors": [
+        "37",
+        "52"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 498,
+      "ancestors": [
+        "35",
+        "95"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 493,
+      "ancestors": [
+        "41",
+        "77"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 496,
+      "ancestors": [
+        "89",
+        "2"
+      ]
+    },
+    "53": {
+      "generation": 493,
+      "ancestors": [
+        "62",
+        "67"
+      ]
+    },
+    "54": {
+      "generation": 496,
+      "ancestors": [
+        "26",
+        "11"
+      ]
+    },
+    "55": {
+      "generation": 495,
+      "ancestors": [
+        "38",
+        "63"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 494,
+      "ancestors": [
+        "76",
+        "15"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 497,
+      "ancestors": [
+        "37",
+        "31"
+      ]
+    },
+    "60": {
+      "generation": 493,
+      "ancestors": [
+        "9",
+        "45"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 497,
+      "ancestors": [
+        "68",
+        "81"
+      ]
+    },
+    "63": {
+      "generation": 491,
+      "ancestors": [
+        "19",
+        "100"
+      ]
+    },
+    "64": {
+      "generation": 495,
+      "ancestors": [
+        "37",
+        "79"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 496,
+      "ancestors": [
+        "53",
+        "35"
+      ]
+    },
+    "70": {
+      "generation": 495,
+      "ancestors": [
+        "91",
+        "24"
+      ]
+    },
+    "71": {
+      "generation": 495,
+      "ancestors": [
+        "49",
+        "75"
+      ]
+    },
+    "72": {
+      "generation": 496,
+      "ancestors": [
+        "56",
+        "76"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 495,
+      "ancestors": [
+        "21",
+        "19"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 491,
+      "ancestors": [
+        "6",
+        "44"
+      ]
+    },
+    "77": {
+      "generation": 495,
+      "ancestors": [
+        "30",
+        "88"
+      ]
+    },
+    "78": {
+      "generation": 498,
+      "ancestors": [
+        "21",
+        "59"
+      ]
+    },
+    "79": {
+      "generation": 494,
+      "ancestors": [
+        "93",
+        "61"
+      ]
+    },
+    "80": {
+      "generation": 492,
+      "ancestors": [
+        "26",
+        "76"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 496,
+      "ancestors": [
+        "95",
+        "98"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 498,
+      "ancestors": [
+        "3",
+        "58"
+      ]
+    },
+    "85": {
+      "generation": 498,
+      "ancestors": [
+        "94",
+        "57"
+      ]
+    },
+    "86": {
+      "generation": 496,
+      "ancestors": [
+        "95",
+        "68"
+      ]
+    },
+    "87": {
+      "generation": 496,
+      "ancestors": [
+        "89",
+        "49"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 490,
+      "ancestors": [
+        "59",
+        "86"
+      ]
+    },
+    "90": {
+      "generation": 498,
+      "ancestors": [
+        "59",
+        "45"
+      ]
+    },
+    "91": {
+      "generation": 497,
+      "ancestors": [
+        "71",
+        "50"
+      ]
+    },
+    "92": {
+      "generation": 491,
+      "ancestors": [
+        "77",
+        "23"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 493,
+      "ancestors": [
+        "54",
+        "58"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 493,
+      "ancestors": [
+        "59",
+        "71"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 492,
+      "ancestors": [
+        "82",
+        "82"
+      ]
+    },
+    "100": {
+      "generation": 497,
+      "ancestors": [
+        "42",
+        "16"
+      ]
+    }
+  },
+  "498": {
+    "1": {
+      "generation": 495,
+      "ancestors": [
+        "88",
+        "27"
+      ]
+    },
+    "2": {
+      "generation": 494,
+      "ancestors": [
+        "19",
+        "31"
+      ]
+    },
+    "3": {
+      "generation": 492,
+      "ancestors": [
+        "14",
+        "37"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 497,
+      "ancestors": [
+        "71",
+        "90"
+      ]
+    },
+    "6": {
+      "generation": 494,
+      "ancestors": [
+        "75",
+        "88"
+      ]
+    },
+    "7": {
+      "generation": 495,
+      "ancestors": [
+        "5",
+        "19"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 499,
+      "ancestors": [
+        "10",
+        "87"
+      ]
+    },
+    "10": {
+      "generation": 493,
+      "ancestors": [
+        "24",
+        "47"
+      ]
+    },
+    "11": {
+      "generation": 499,
+      "ancestors": [
+        "42",
+        "5"
+      ]
+    },
+    "12": {
+      "generation": 498,
+      "ancestors": [
+        "1",
+        "94"
+      ]
+    },
+    "13": {
+      "generation": 494,
+      "ancestors": [
+        "80",
+        "53"
+      ]
+    },
+    "14": {
+      "generation": 499,
+      "ancestors": [
+        "29",
+        "47"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 499,
+      "ancestors": [
+        "92",
+        "85"
+      ]
+    },
+    "17": {
+      "generation": 495,
+      "ancestors": [
+        "75",
+        "83"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 492,
+      "ancestors": [
+        "43",
+        "58"
+      ]
+    },
+    "20": {
+      "generation": 497,
+      "ancestors": [
+        "70",
+        "94"
+      ]
+    },
+    "21": {
+      "generation": 494,
+      "ancestors": [
+        "64",
+        "8"
+      ]
+    },
+    "22": {
+      "generation": 498,
+      "ancestors": [
+        "100",
+        "25"
+      ]
+    },
+    "23": {
+      "generation": 499,
+      "ancestors": [
+        "76",
+        "63"
+      ]
+    },
+    "24": {
+      "generation": 494,
+      "ancestors": [
+        "20",
+        "90"
+      ]
+    },
+    "25": {
+      "generation": 493,
+      "ancestors": [
+        "19",
+        "91"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 491,
+      "ancestors": [
+        "30",
+        "32"
+      ]
+    },
+    "28": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "48"
+      ]
+    },
+    "29": {
+      "generation": 495,
+      "ancestors": [
+        "27",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 499,
+      "ancestors": [
+        "7",
+        "48"
+      ]
+    },
+    "31": {
+      "generation": 491,
+      "ancestors": [
+        "64",
+        "13"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 498,
+      "ancestors": [
+        "10",
+        "61"
+      ]
+    },
+    "34": {
+      "generation": 494,
+      "ancestors": [
+        "52",
+        "55"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 494,
+      "ancestors": [
+        "51",
+        "60"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 492,
+      "ancestors": [
+        "32",
+        "77"
+      ]
+    },
+    "41": {
+      "generation": 494,
+      "ancestors": [
+        "8",
+        "55"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 497,
+      "ancestors": [
+        "37",
+        "52"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 498,
+      "ancestors": [
+        "35",
+        "95"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 499,
+      "ancestors": [
+        "75",
+        "6"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 496,
+      "ancestors": [
+        "89",
+        "2"
+      ]
+    },
+    "53": {
+      "generation": 499,
+      "ancestors": [
+        "41",
+        "20"
+      ]
+    },
+    "54": {
+      "generation": 496,
+      "ancestors": [
+        "26",
+        "11"
+      ]
+    },
+    "55": {
+      "generation": 495,
+      "ancestors": [
+        "38",
+        "63"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 494,
+      "ancestors": [
+        "76",
+        "15"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 497,
+      "ancestors": [
+        "37",
+        "31"
+      ]
+    },
+    "60": {
+      "generation": 493,
+      "ancestors": [
+        "9",
+        "45"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 497,
+      "ancestors": [
+        "68",
+        "81"
+      ]
+    },
+    "63": {
+      "generation": 491,
+      "ancestors": [
+        "19",
+        "100"
+      ]
+    },
+    "64": {
+      "generation": 495,
+      "ancestors": [
+        "37",
+        "79"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 496,
+      "ancestors": [
+        "53",
+        "35"
+      ]
+    },
+    "70": {
+      "generation": 495,
+      "ancestors": [
+        "91",
+        "24"
+      ]
+    },
+    "71": {
+      "generation": 495,
+      "ancestors": [
+        "49",
+        "75"
+      ]
+    },
+    "72": {
+      "generation": 496,
+      "ancestors": [
+        "56",
+        "76"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 499,
+      "ancestors": [
+        "78",
+        "87"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 491,
+      "ancestors": [
+        "6",
+        "44"
+      ]
+    },
+    "77": {
+      "generation": 495,
+      "ancestors": [
+        "30",
+        "88"
+      ]
+    },
+    "78": {
+      "generation": 498,
+      "ancestors": [
+        "21",
+        "59"
+      ]
+    },
+    "79": {
+      "generation": 499,
+      "ancestors": [
+        "71",
+        "57"
+      ]
+    },
+    "80": {
+      "generation": 492,
+      "ancestors": [
+        "26",
+        "76"
+      ]
+    },
+    "81": {
+      "generation": 488,
+      "ancestors": [
+        "31",
+        "68"
+      ]
+    },
+    "82": {
+      "generation": 496,
+      "ancestors": [
+        "95",
+        "98"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 498,
+      "ancestors": [
+        "3",
+        "58"
+      ]
+    },
+    "85": {
+      "generation": 498,
+      "ancestors": [
+        "94",
+        "57"
+      ]
+    },
+    "86": {
+      "generation": 496,
+      "ancestors": [
+        "95",
+        "68"
+      ]
+    },
+    "87": {
+      "generation": 496,
+      "ancestors": [
+        "89",
+        "49"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 490,
+      "ancestors": [
+        "59",
+        "86"
+      ]
+    },
+    "90": {
+      "generation": 498,
+      "ancestors": [
+        "59",
+        "45"
+      ]
+    },
+    "91": {
+      "generation": 497,
+      "ancestors": [
+        "71",
+        "50"
+      ]
+    },
+    "92": {
+      "generation": 491,
+      "ancestors": [
+        "77",
+        "23"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 493,
+      "ancestors": [
+        "54",
+        "58"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 493,
+      "ancestors": [
+        "59",
+        "71"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 492,
+      "ancestors": [
+        "82",
+        "82"
+      ]
+    },
+    "100": {
+      "generation": 497,
+      "ancestors": [
+        "42",
+        "16"
+      ]
+    }
+  },
+  "499": {
+    "1": {
+      "generation": 495,
+      "ancestors": [
+        "88",
+        "27"
+      ]
+    },
+    "2": {
+      "generation": 494,
+      "ancestors": [
+        "19",
+        "31"
+      ]
+    },
+    "3": {
+      "generation": 500,
+      "ancestors": [
+        "11",
+        "15"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 497,
+      "ancestors": [
+        "71",
+        "90"
+      ]
+    },
+    "6": {
+      "generation": 494,
+      "ancestors": [
+        "75",
+        "88"
+      ]
+    },
+    "7": {
+      "generation": 495,
+      "ancestors": [
+        "5",
+        "19"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 499,
+      "ancestors": [
+        "10",
+        "87"
+      ]
+    },
+    "10": {
+      "generation": 493,
+      "ancestors": [
+        "24",
+        "47"
+      ]
+    },
+    "11": {
+      "generation": 499,
+      "ancestors": [
+        "42",
+        "5"
+      ]
+    },
+    "12": {
+      "generation": 498,
+      "ancestors": [
+        "1",
+        "94"
+      ]
+    },
+    "13": {
+      "generation": 494,
+      "ancestors": [
+        "80",
+        "53"
+      ]
+    },
+    "14": {
+      "generation": 499,
+      "ancestors": [
+        "29",
+        "47"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 499,
+      "ancestors": [
+        "92",
+        "85"
+      ]
+    },
+    "17": {
+      "generation": 495,
+      "ancestors": [
+        "75",
+        "83"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 500,
+      "ancestors": [
+        "70",
+        "67"
+      ]
+    },
+    "20": {
+      "generation": 497,
+      "ancestors": [
+        "70",
+        "94"
+      ]
+    },
+    "21": {
+      "generation": 494,
+      "ancestors": [
+        "64",
+        "8"
+      ]
+    },
+    "22": {
+      "generation": 498,
+      "ancestors": [
+        "100",
+        "25"
+      ]
+    },
+    "23": {
+      "generation": 499,
+      "ancestors": [
+        "76",
+        "63"
+      ]
+    },
+    "24": {
+      "generation": 494,
+      "ancestors": [
+        "20",
+        "90"
+      ]
+    },
+    "25": {
+      "generation": 493,
+      "ancestors": [
+        "19",
+        "91"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 491,
+      "ancestors": [
+        "30",
+        "32"
+      ]
+    },
+    "28": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "48"
+      ]
+    },
+    "29": {
+      "generation": 495,
+      "ancestors": [
+        "27",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 499,
+      "ancestors": [
+        "7",
+        "48"
+      ]
+    },
+    "31": {
+      "generation": 500,
+      "ancestors": [
+        "68",
+        "23"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 498,
+      "ancestors": [
+        "10",
+        "61"
+      ]
+    },
+    "34": {
+      "generation": 494,
+      "ancestors": [
+        "52",
+        "55"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 494,
+      "ancestors": [
+        "51",
+        "60"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 492,
+      "ancestors": [
+        "32",
+        "77"
+      ]
+    },
+    "41": {
+      "generation": 494,
+      "ancestors": [
+        "8",
+        "55"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 500,
+      "ancestors": [
+        "37",
+        "7"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 498,
+      "ancestors": [
+        "35",
+        "95"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 499,
+      "ancestors": [
+        "75",
+        "6"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 496,
+      "ancestors": [
+        "89",
+        "2"
+      ]
+    },
+    "53": {
+      "generation": 499,
+      "ancestors": [
+        "41",
+        "20"
+      ]
+    },
+    "54": {
+      "generation": 496,
+      "ancestors": [
+        "26",
+        "11"
+      ]
+    },
+    "55": {
+      "generation": 495,
+      "ancestors": [
+        "38",
+        "63"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 494,
+      "ancestors": [
+        "76",
+        "15"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 497,
+      "ancestors": [
+        "37",
+        "31"
+      ]
+    },
+    "60": {
+      "generation": 493,
+      "ancestors": [
+        "9",
+        "45"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 497,
+      "ancestors": [
+        "68",
+        "81"
+      ]
+    },
+    "63": {
+      "generation": 500,
+      "ancestors": [
+        "14",
+        "60"
+      ]
+    },
+    "64": {
+      "generation": 495,
+      "ancestors": [
+        "37",
+        "79"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 496,
+      "ancestors": [
+        "53",
+        "35"
+      ]
+    },
+    "70": {
+      "generation": 495,
+      "ancestors": [
+        "91",
+        "24"
+      ]
+    },
+    "71": {
+      "generation": 495,
+      "ancestors": [
+        "49",
+        "75"
+      ]
+    },
+    "72": {
+      "generation": 496,
+      "ancestors": [
+        "56",
+        "76"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 499,
+      "ancestors": [
+        "78",
+        "87"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 491,
+      "ancestors": [
+        "6",
+        "44"
+      ]
+    },
+    "77": {
+      "generation": 495,
+      "ancestors": [
+        "30",
+        "88"
+      ]
+    },
+    "78": {
+      "generation": 498,
+      "ancestors": [
+        "21",
+        "59"
+      ]
+    },
+    "79": {
+      "generation": 499,
+      "ancestors": [
+        "71",
+        "57"
+      ]
+    },
+    "80": {
+      "generation": 492,
+      "ancestors": [
+        "26",
+        "76"
+      ]
+    },
+    "81": {
+      "generation": 500,
+      "ancestors": [
+        "12",
+        "86"
+      ]
+    },
+    "82": {
+      "generation": 500,
+      "ancestors": [
+        "22",
+        "83"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 498,
+      "ancestors": [
+        "3",
+        "58"
+      ]
+    },
+    "85": {
+      "generation": 498,
+      "ancestors": [
+        "94",
+        "57"
+      ]
+    },
+    "86": {
+      "generation": 496,
+      "ancestors": [
+        "95",
+        "68"
+      ]
+    },
+    "87": {
+      "generation": 496,
+      "ancestors": [
+        "89",
+        "49"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 500,
+      "ancestors": [
+        "85",
+        "62"
+      ]
+    },
+    "90": {
+      "generation": 498,
+      "ancestors": [
+        "59",
+        "45"
+      ]
+    },
+    "91": {
+      "generation": 497,
+      "ancestors": [
+        "71",
+        "50"
+      ]
+    },
+    "92": {
+      "generation": 491,
+      "ancestors": [
+        "77",
+        "23"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 493,
+      "ancestors": [
+        "54",
+        "58"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 500,
+      "ancestors": [
+        "50",
+        "18"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 500,
+      "ancestors": [
+        "49",
+        "30"
+      ]
+    },
+    "100": {
+      "generation": 497,
+      "ancestors": [
+        "42",
+        "16"
+      ]
+    }
+  },
+  "500": {
+    "1": {
+      "generation": 495,
+      "ancestors": [
+        "88",
+        "27"
+      ]
+    },
+    "2": {
+      "generation": 501,
+      "ancestors": [
+        "54",
+        "94"
+      ]
+    },
+    "3": {
+      "generation": 500,
+      "ancestors": [
+        "11",
+        "15"
+      ]
+    },
+    "4": {
+      "generation": 480,
+      "ancestors": [
+        "93",
+        "22"
+      ]
+    },
+    "5": {
+      "generation": 497,
+      "ancestors": [
+        "71",
+        "90"
+      ]
+    },
+    "6": {
+      "generation": 494,
+      "ancestors": [
+        "75",
+        "88"
+      ]
+    },
+    "7": {
+      "generation": 501,
+      "ancestors": [
+        "61",
+        "86"
+      ]
+    },
+    "8": {
+      "generation": 475,
+      "ancestors": [
+        "56",
+        "48"
+      ]
+    },
+    "9": {
+      "generation": 499,
+      "ancestors": [
+        "10",
+        "87"
+      ]
+    },
+    "10": {
+      "generation": 493,
+      "ancestors": [
+        "24",
+        "47"
+      ]
+    },
+    "11": {
+      "generation": 499,
+      "ancestors": [
+        "42",
+        "5"
+      ]
+    },
+    "12": {
+      "generation": 498,
+      "ancestors": [
+        "1",
+        "94"
+      ]
+    },
+    "13": {
+      "generation": 494,
+      "ancestors": [
+        "80",
+        "53"
+      ]
+    },
+    "14": {
+      "generation": 499,
+      "ancestors": [
+        "29",
+        "47"
+      ]
+    },
+    "15": {
+      "generation": 480,
+      "ancestors": [
+        "8",
+        "59"
+      ]
+    },
+    "16": {
+      "generation": 499,
+      "ancestors": [
+        "92",
+        "85"
+      ]
+    },
+    "17": {
+      "generation": 495,
+      "ancestors": [
+        "75",
+        "83"
+      ]
+    },
+    "18": {
+      "generation": 485,
+      "ancestors": [
+        "58",
+        "33"
+      ]
+    },
+    "19": {
+      "generation": 500,
+      "ancestors": [
+        "70",
+        "67"
+      ]
+    },
+    "20": {
+      "generation": 497,
+      "ancestors": [
+        "70",
+        "94"
+      ]
+    },
+    "21": {
+      "generation": 494,
+      "ancestors": [
+        "64",
+        "8"
+      ]
+    },
+    "22": {
+      "generation": 501,
+      "ancestors": [
+        "82",
+        "42"
+      ]
+    },
+    "23": {
+      "generation": 499,
+      "ancestors": [
+        "76",
+        "63"
+      ]
+    },
+    "24": {
+      "generation": 494,
+      "ancestors": [
+        "20",
+        "90"
+      ]
+    },
+    "25": {
+      "generation": 493,
+      "ancestors": [
+        "19",
+        "91"
+      ]
+    },
+    "26": {
+      "generation": 461,
+      "ancestors": [
+        "68",
+        "59"
+      ]
+    },
+    "27": {
+      "generation": 491,
+      "ancestors": [
+        "30",
+        "32"
+      ]
+    },
+    "28": {
+      "generation": 492,
+      "ancestors": [
+        "53",
+        "48"
+      ]
+    },
+    "29": {
+      "generation": 495,
+      "ancestors": [
+        "27",
+        "42"
+      ]
+    },
+    "30": {
+      "generation": 499,
+      "ancestors": [
+        "7",
+        "48"
+      ]
+    },
+    "31": {
+      "generation": 500,
+      "ancestors": [
+        "68",
+        "23"
+      ]
+    },
+    "32": {
+      "generation": 489,
+      "ancestors": [
+        "78",
+        "91"
+      ]
+    },
+    "33": {
+      "generation": 498,
+      "ancestors": [
+        "10",
+        "61"
+      ]
+    },
+    "34": {
+      "generation": 501,
+      "ancestors": [
+        "85",
+        "61"
+      ]
+    },
+    "35": {
+      "generation": 483,
+      "ancestors": [
+        "80",
+        "51"
+      ]
+    },
+    "36": {
+      "generation": 494,
+      "ancestors": [
+        "51",
+        "60"
+      ]
+    },
+    "37": {
+      "generation": 487,
+      "ancestors": [
+        "21",
+        "23"
+      ]
+    },
+    "38": {
+      "generation": 489,
+      "ancestors": [
+        "66",
+        "84"
+      ]
+    },
+    "39": {
+      "generation": 485,
+      "ancestors": [
+        "26",
+        "48"
+      ]
+    },
+    "40": {
+      "generation": 492,
+      "ancestors": [
+        "32",
+        "77"
+      ]
+    },
+    "41": {
+      "generation": 501,
+      "ancestors": [
+        "82",
+        "89"
+      ]
+    },
+    "42": {
+      "generation": 484,
+      "ancestors": [
+        "90",
+        "59"
+      ]
+    },
+    "43": {
+      "generation": 500,
+      "ancestors": [
+        "37",
+        "7"
+      ]
+    },
+    "44": {
+      "generation": 485,
+      "ancestors": [
+        "83",
+        "99"
+      ]
+    },
+    "45": {
+      "generation": 490,
+      "ancestors": [
+        "87",
+        "47"
+      ]
+    },
+    "46": {
+      "generation": 498,
+      "ancestors": [
+        "35",
+        "95"
+      ]
+    },
+    "47": {
+      "generation": 488,
+      "ancestors": [
+        "92",
+        "78"
+      ]
+    },
+    "48": {
+      "generation": 483,
+      "ancestors": [
+        "28",
+        "51"
+      ]
+    },
+    "49": {
+      "generation": 499,
+      "ancestors": [
+        "75",
+        "6"
+      ]
+    },
+    "50": {
+      "generation": 487,
+      "ancestors": [
+        "7",
+        "90"
+      ]
+    },
+    "51": {
+      "generation": 479,
+      "ancestors": [
+        "47",
+        "18"
+      ]
+    },
+    "52": {
+      "generation": 501,
+      "ancestors": [
+        "33",
+        "88"
+      ]
+    },
+    "53": {
+      "generation": 499,
+      "ancestors": [
+        "41",
+        "20"
+      ]
+    },
+    "54": {
+      "generation": 496,
+      "ancestors": [
+        "26",
+        "11"
+      ]
+    },
+    "55": {
+      "generation": 501,
+      "ancestors": [
+        "71",
+        "42"
+      ]
+    },
+    "56": {
+      "generation": 487,
+      "ancestors": [
+        "76",
+        "61"
+      ]
+    },
+    "57": {
+      "generation": 494,
+      "ancestors": [
+        "76",
+        "15"
+      ]
+    },
+    "58": {
+      "generation": 488,
+      "ancestors": [
+        "99",
+        "39"
+      ]
+    },
+    "59": {
+      "generation": 497,
+      "ancestors": [
+        "37",
+        "31"
+      ]
+    },
+    "60": {
+      "generation": 493,
+      "ancestors": [
+        "9",
+        "45"
+      ]
+    },
+    "61": {
+      "generation": 485,
+      "ancestors": [
+        "55",
+        "42"
+      ]
+    },
+    "62": {
+      "generation": 497,
+      "ancestors": [
+        "68",
+        "81"
+      ]
+    },
+    "63": {
+      "generation": 500,
+      "ancestors": [
+        "14",
+        "60"
+      ]
+    },
+    "64": {
+      "generation": 495,
+      "ancestors": [
+        "37",
+        "79"
+      ]
+    },
+    "65": {
+      "generation": 489,
+      "ancestors": [
+        "51",
+        "56"
+      ]
+    },
+    "66": {
+      "generation": 486,
+      "ancestors": [
+        "37",
+        "18"
+      ]
+    },
+    "67": {
+      "generation": 490,
+      "ancestors": [
+        "29",
+        "58"
+      ]
+    },
+    "68": {
+      "generation": 474,
+      "ancestors": [
+        "3",
+        "48"
+      ]
+    },
+    "69": {
+      "generation": 496,
+      "ancestors": [
+        "53",
+        "35"
+      ]
+    },
+    "70": {
+      "generation": 495,
+      "ancestors": [
+        "91",
+        "24"
+      ]
+    },
+    "71": {
+      "generation": 495,
+      "ancestors": [
+        "49",
+        "75"
+      ]
+    },
+    "72": {
+      "generation": 496,
+      "ancestors": [
+        "56",
+        "76"
+      ]
+    },
+    "73": {
+      "generation": 482,
+      "ancestors": [
+        "7",
+        "51"
+      ]
+    },
+    "74": {
+      "generation": 501,
+      "ancestors": [
+        "14",
+        "18"
+      ]
+    },
+    "75": {
+      "generation": 481,
+      "ancestors": [
+        "28",
+        "68"
+      ]
+    },
+    "76": {
+      "generation": 491,
+      "ancestors": [
+        "6",
+        "44"
+      ]
+    },
+    "77": {
+      "generation": 495,
+      "ancestors": [
+        "30",
+        "88"
+      ]
+    },
+    "78": {
+      "generation": 498,
+      "ancestors": [
+        "21",
+        "59"
+      ]
+    },
+    "79": {
+      "generation": 499,
+      "ancestors": [
+        "71",
+        "57"
+      ]
+    },
+    "80": {
+      "generation": 492,
+      "ancestors": [
+        "26",
+        "76"
+      ]
+    },
+    "81": {
+      "generation": 500,
+      "ancestors": [
+        "12",
+        "86"
+      ]
+    },
+    "82": {
+      "generation": 500,
+      "ancestors": [
+        "22",
+        "83"
+      ]
+    },
+    "83": {
+      "generation": 482,
+      "ancestors": [
+        "11",
+        "51"
+      ]
+    },
+    "84": {
+      "generation": 498,
+      "ancestors": [
+        "3",
+        "58"
+      ]
+    },
+    "85": {
+      "generation": 498,
+      "ancestors": [
+        "94",
+        "57"
+      ]
+    },
+    "86": {
+      "generation": 496,
+      "ancestors": [
+        "95",
+        "68"
+      ]
+    },
+    "87": {
+      "generation": 501,
+      "ancestors": [
+        "91",
+        "63"
+      ]
+    },
+    "88": {
+      "generation": 490,
+      "ancestors": [
+        "21",
+        "90"
+      ]
+    },
+    "89": {
+      "generation": 500,
+      "ancestors": [
+        "85",
+        "62"
+      ]
+    },
+    "90": {
+      "generation": 498,
+      "ancestors": [
+        "59",
+        "45"
+      ]
+    },
+    "91": {
+      "generation": 497,
+      "ancestors": [
+        "71",
+        "50"
+      ]
+    },
+    "92": {
+      "generation": 491,
+      "ancestors": [
+        "77",
+        "23"
+      ]
+    },
+    "93": {
+      "generation": 479,
+      "ancestors": [
+        "4",
+        "59"
+      ]
+    },
+    "94": {
+      "generation": 493,
+      "ancestors": [
+        "54",
+        "58"
+      ]
+    },
+    "95": {
+      "generation": 488,
+      "ancestors": [
+        "2",
+        "61"
+      ]
+    },
+    "96": {
+      "generation": 490,
+      "ancestors": [
+        "7",
+        "8"
+      ]
+    },
+    "97": {
+      "generation": 500,
+      "ancestors": [
+        "50",
+        "18"
+      ]
+    },
+    "98": {
+      "generation": 484,
+      "ancestors": [
+        "31",
+        "77"
+      ]
+    },
+    "99": {
+      "generation": 500,
+      "ancestors": [
+        "49",
+        "30"
+      ]
+    },
+    "100": {
+      "generation": 501,
+      "ancestors": [
+        "58",
+        "47"
+      ]
+    }
+  }
+}

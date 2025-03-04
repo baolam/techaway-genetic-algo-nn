@@ -9,7 +9,8 @@ class AlgorithmHistory {
     this.__possible = true;
 
     if (!fs.existsSync(this.__saved_path)) {
-      console.log("Folder chưa tồn tại!");
+      console.log(`Folder ${saved_folder} chưa tồn tại!`);
+      console.log(`Đường dẫn: ${this.__saved_path}`);
       this.__possible = false;
     } else {
       this.#__processAncestor();
@@ -18,9 +19,9 @@ class AlgorithmHistory {
 
   #__getPath(infor, isSavedPath = false) {
     if (isSavedPath) {
-      return path.join("../../resources/database", infor);
+      return path.join(__dirname, "../../resources/database", infor);
     }
-    return path.join("../../", this.__saved_path, infor);
+    return path.join(this.__saved_path, infor);
   }
 
   #__processAncestor() {
@@ -32,7 +33,7 @@ class AlgorithmHistory {
 
     const ancestors = {};
 
-    /// Chỉ lấy tổ tiên 10 thế hệ cuối
+    /// Chỉ lấy tổ tiên theo scope
     for (let i = generations - scope; i <= generations; i++) {
       const generation = require(this.#__getPath(i.toString() + ".json"));
       const population = generation.final_population;
@@ -58,9 +59,7 @@ class AlgorithmHistory {
     }
 
     const overall = require(this.#__getPath("overall.json"));
-    const fitness = overall.fitness;
-
-    return fitness;
+    return overall.fitness;
   }
 
   get_environment_infor() {

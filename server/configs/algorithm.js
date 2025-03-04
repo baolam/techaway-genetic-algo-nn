@@ -3,9 +3,10 @@ const io = require("socket.io-client");
 class Algorithm {
   constructor() {
     this._socket = io.connect("http://localhost:5000");
+    this.#onEvent();
   }
 
-  onEvent() {
+  #onEvent() {
     this._socket.on("connect", () => this.#onHandleConnect());
     this._socket.on("disconnect", () => this.#onHandleDisconnect());
     this._socket.on("update_envrionment_status", (result) =>
@@ -26,7 +27,7 @@ class Algorithm {
   }
 
   #onHandleDisconnect() {
-    console.log("Stopped server!");
+    console.log("Stopped server. Received command from opponent!");
     process.exit(0);
   }
 
