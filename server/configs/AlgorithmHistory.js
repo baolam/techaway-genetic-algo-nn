@@ -1,11 +1,11 @@
 const path = require("path");
 const fs = require("fs");
 const scope =
-  require("../resources/database/general_config.json").num_saved_generation;
+  require("../../resources/database/general_config.json").num_saved_generation;
 
 class AlgorithmHistory {
   constructor(saved_folder) {
-    this.__saved_path = path.join("./resources/database", saved_folder);
+    this.__saved_path = this.#__getPath(saved_folder, true);
     this.__possible = true;
 
     if (!fs.existsSync(this.__saved_path)) {
@@ -16,20 +16,25 @@ class AlgorithmHistory {
     }
   }
 
+  #__getPath(infor, isSavedPath = false) {
+    if (isSavedPath) {
+      return path.join("../../resources/database", infor);
+    }
+    return path.join("../../", this.__saved_path, infor);
+  }
+
   #__processAncestor() {
-    const ancestor_file = path.join(this.__saved_path, "ancestors.json");
+    const ancestor_file = this.#__getPath("ancestors.json");
     if (fs.existsSync(ancestor_file)) return;
 
-    const overall = require("../" +
-      path.join(this.__saved_path, "overall.json"));
+    const overall = require(this.#__getPath("overall.json"));
     const generations = overall.generations;
 
     const ancestors = {};
 
     /// Chỉ lấy tổ tiên 10 thế hệ cuối
     for (let i = generations - scope; i <= generations; i++) {
-      const generation = require("../" +
-        path.join(this.__saved_path, i.toString() + ".json"));
+      const generation = require(this.#__getPath(i.toString() + ".json"));
       const population = generation.final_population;
       const infors = {};
       for (let j = 1; j <= Object.keys(population).length; j++) {
@@ -52,16 +57,8 @@ class AlgorithmHistory {
       return [];
     }
 
-    const overall = require("../" +
-      path.join(this.__saved_path, "overall.json"));
-    const generations = overall.generations;
-
-    const fitness = [];
-    for (let i = 1; i <= generations; i++) {
-      const score = require("../" +
-        path.join(this.__saved_path, i.toString() + ".json")).best_fitness;
-      fitness.push(score);
-    }
+    const overall = require(this.#__getPath("overall.json"));
+    const fitness = overall.fitness;
 
     return fitness;
   }
@@ -70,8 +67,7 @@ class AlgorithmHistory {
     if (!this.__possible) {
       return {};
     }
-    const overall = require("../" +
-      path.join(this.__saved_path, "overall.json"));
+    const overall = require(this.#__getPath("overall.json"));
     const environment = overall.environment;
     return environment;
   }
@@ -133,8 +129,7 @@ class AlgorithmHistory {
   }
 
   get_ancestor_creature(creature_id) {
-    const ancestor_file = path.join(this.__saved_path, "ancestors.json");
-    const ancestor_infor = require("../" + ancestor_file);
+    const ancestor_infor = require(this.#__getPath("ancestors.json"));
     /// Tiến hành lấy từ thế hệ cuối quay ngược lại thế hệ sau
     const generations = Object.keys(ancestor_infor);
     const range = [
@@ -154,11 +149,11 @@ class AlgorithmHistory {
 
   get_creature_infor(creature_id) {
     const ancestors = this.get_ancestor_creature(creature_id);
-    const overall = require("../" +
-      path.join(this.__saved_path, "overall.json"));
+    const overall = require(this.#__getPath("overall.json"));
     const generations = overall.generations;
-    const final_generation = require("../" +
-      path.join(this.__saved_path, String(generations) + ".json"));
+    const final_generation = require(this.#__getPath(
+      String(generations) + ".json"
+    ));
     const creature = final_generation.final_population[creature_id];
     const results = {
       ancestors,
