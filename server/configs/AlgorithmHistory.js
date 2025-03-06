@@ -62,6 +62,15 @@ class AlgorithmHistory {
     return overall.fitness;
   }
 
+  get_total() {
+    if (!this.__possible) {
+      return 0;
+    }
+
+    const overall = require(this.#__getPath("overall.json"));
+    return overall.generations;
+  }
+
   get_environment_infor() {
     if (!this.__possible) {
       return {};

@@ -1,5 +1,5 @@
-import React from 'react';
-import RouteSystem from '@Components/RouteSystem.component';
+import React from 'react'
+import RouteSystem from '@Components/RouteSystem.component'
 
 const About = () => {
   // const ResumeContent = require("@Assets/Résumé.pdf");
@@ -8,7 +8,7 @@ const About = () => {
     <div>
       <RouteSystem />
     </div>
-  );
-};
+  )
+}
 
-export default About;
+export default About

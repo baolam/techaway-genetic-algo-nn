@@ -1,12 +1,8 @@
-import React from 'react';
-import {
-  createBrowserRouter,
-  Navigate,
-  RouterProvider,
-} from 'react-router-dom';
+import React from 'react'
+import { createBrowserRouter, Navigate, RouterProvider } from 'react-router-dom'
 
-import About from '@Features/About';
-import Dashboard from '@Features/Dashboard/Dashboard';
+import About from '@Features/About'
+import Dashboard from '@Features/Dashboard/Dashboard'
 
 const router = createBrowserRouter([
   {
@@ -18,13 +14,13 @@ const router = createBrowserRouter([
     element: <About />,
   },
   {
-    path : '/dashboard',
-    element: <Dashboard />
-  }
-]);
+    path: '/dashboard',
+    element: <Dashboard />,
+  },
+])
 
 const App = () => {
-  return <RouterProvider router={router} />;
-};
+  return <RouterProvider router={router} />
+}
 
-export default App;
+export default App

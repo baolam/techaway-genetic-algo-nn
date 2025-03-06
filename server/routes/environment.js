@@ -9,7 +9,8 @@ Router.get("/", (req, res) => {
   res.json(infor);
 });
 
-Router.post("/", (req, res) => {
+Router.put("/", (req, res) => {
+  console.log("Tiến hành gọi Update");
   algo._socket.emit("update_environment", req.body);
   infor = req.body;
   res.send("Sent a request to server!");

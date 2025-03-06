@@ -20,6 +20,7 @@ def fitness_function(environment : Environment, strategy):
     atmos_pressure = environment.atmos_pressure
     wind_speed = environment.wind_speed
     ph = environment.ph
+    energy_env = environment.energy
 
     # Lấy thông tin từ chiến lược
     food_sense = strategy[0]  # 0 → 1
@@ -30,9 +31,10 @@ def fitness_function(environment : Environment, strategy):
     adverse_score = (
         ((temperature - 25) / 25) ** 2 +  # Chuẩn hóa nhiệt độ
         ((humidity - 50) / 50) ** 2 +     # Chuẩn hóa độ ẩm
-        (wind_speed / 50) ** 2 +          # Giả sử tốc độ gió tối đa là 50
-        ((ph - 7) / 7) ** 2               # Chuẩn hóa độ pH
-    ) / 4  # Trung bình để đưa về khoảng 0 → 1
+        (wind_speed / 200) ** 2 +          # Giả sử tốc độ gió tối đa là 50
+        ((ph - 7) / 7) ** 2 +
+        ((energy_level - 5000) / 10000) ** 2             # Chuẩn hóa độ pH
+    ) / 5  # Trung bình để đưa về khoảng 0 → 1
 
     # Tính điểm fitness
     fitness = (

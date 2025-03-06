@@ -9,7 +9,7 @@ class Algorithm {
   #onEvent() {
     this._socket.on("connect", () => this.#onHandleConnect());
     this._socket.on("disconnect", () => this.#onHandleDisconnect());
-    this._socket.on("update_envrionment_status", (result) =>
+    this._socket.on("update_environment_status", (result) =>
       this.#onHandleUpdateEnvironmentStatus(result)
     );
     this._socket.on("creature_strategy", (result) =>
@@ -21,7 +21,7 @@ class Algorithm {
   }
 
   #onHandleConnect() {
-    console.log("Connected to server");
+    console.log("Connected to algorithm's server");
     let env_infor = require("../../resources/database/default_environment_infor.json");
     this._socket.emit("update_environment", env_infor);
   }

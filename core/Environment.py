@@ -81,7 +81,7 @@ class Environment:
             "percen_foods" : self.percen_foods,
             "rainfall" : self.rainfall,
             "wind_speed" : self.wind_speed,
-            "atmospheric_pressure" : self.atmos_pressure,
+            "atmos_pressure" : self.atmos_pressure,
             "ph" : self.ph,
             "energy" : self.energy
         }
