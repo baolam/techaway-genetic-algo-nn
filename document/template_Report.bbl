@@ -1,0 +1,606 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global/global}
+  \entry{whatIsDNA}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{title}{ADN}
+    \verb{url}
+    \verb https://vi.wikipedia.org/wiki/DNA
+    \endverb
+  \endentry
+
+  \entry{baolam}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=�BLN}{%
+         prefix={Đức},
+         prefixi={�\bibinitperiod},
+         family={Bảo\bibnamedelima Lâm},
+         familyi={B\bibinitperiod\bibinitdelim L\bibinitperiod},
+         given={Nguyễn},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BLN�1}
+    \strng{fullhash}{BLN�1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Mô phỏng thuật toán}
+    \verb{url}
+    \verb https://github.com/baolam/techaway-genetic-algo-nn
+    \endverb
+  \endentry
+
+  \entry{whatIsGenetic}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Di truyền}
+    \verb{url}
+    \verb https://vi.wikipedia.org/wiki/Di_truy%E1%BB%81n
+    \endverb
+  \endentry
+
+  \entry{DifferientalEvolution1}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Differiential Evolution}
+    \verb{url}
+    \verb https://en.wikipedia.org/wiki/Differential_evolution
+    \endverb
+  \endentry
+
+  \entry{DifferientalEvolution2}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{title}{Differiential Evolution Algorithm}
+    \verb{url}
+    \verb https://www.sciencedirect.com/topics/computer-science/differential-ev
+    \verb olution-algorithm#:~:text=Differential%20Evolution%20(DE)%20is%20anot
+    \verb her,of%20agents%20in%20the%20population
+    \endverb
+  \endentry
+
+  \entry{AntColony}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=DM}{%
+         family={Dorigo},
+         familyi={D\bibinitperiod},
+         given={Marco},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BC}{%
+         family={Blum},
+         familyi={B\bibinitperiod},
+         given={Christian},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \keyw{Ant colony optimization, Metaheuristics, Combinatorial optimization,
+  Convergence, Stochastic gradient descent, Model-based search, Approximate
+  algorithms}
+    \strng{namehash}{DMBC1}
+    \strng{fullhash}{DMBC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    Research on a new metaheuristic for optimization is often initially focused
+  on proof-of-concept applications. It is only after experimental work has
+  shown the practical interest of the method that researchers try to deepen
+  their understanding of the method's functioning not only through more and
+  more sophisticated experiments but also by means of an effort to build a
+  theory. Tackling questions such as “how and why the method works’’ is
+  important, because finding an answer may help in improving its applicability.
+  Ant colony optimization, which was introduced in the early 1990s as a novel
+  technique for solving hard combinatorial optimization problems, finds itself
+  currently at this point of its life cycle. With this article we provide a
+  survey on theoretical results on ant colony optimization. First, we review
+  some convergence results. Then we discuss relations between ant colony
+  optimization algorithms and other approximate methods for optimization.
+  Finally, we focus on some research efforts directed at gaining a deeper
+  understanding of the behavior of ant colony optimization algorithms.
+  Throughout the paper we identify some open questions with a certain interest
+  of being solved in the near future.%
+    }
+    \verb{doi}
+    \verb https://doi.org/10.1016/j.tcs.2005.05.020
+    \endverb
+    \field{issn}{0304-3975}
+    \field{number}{2}
+    \field{pages}{243\bibrangedash 278}
+    \field{title}{Ant colony optimization theory: A survey}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0304397505003798
+    \endverb
+    \field{volume}{344}
+    \field{journaltitle}{Theoretical Computer Science}
+    \field{year}{2005}
+  \endentry
+
+  \entry{EvolutionStrategy}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{E}
+    \field{sortinithash}{E}
+    \field{title}{Evolution Strategy}
+    \verb{url}
+    \verb https://en.wikipedia.org/wiki/Evolution_strategy
+    \endverb
+  \endentry
+
+  \entry{fnn_figure}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{F}
+    \field{sortinithash}{F}
+    \field{title}{Feedforward neural network}
+    \verb{url}
+    \verb https://www.researchgate.net/figure/Feedforward-Neural-Network-Feedfo
+    \verb rward-Neural-Network-with-L-hidden-layers-four-units_fig2_349025766
+    \endverb
+  \endentry
+
+  \entry{GA3}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Genetic Algorithm}
+    \verb{url}
+    \verb https://en.wikipedia.org/wiki/Genetic_algorithm
+    \endverb
+  \endentry
+
+  \entry{GA4}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Genetic Algorithms}
+    \verb{url}
+    \verb https://www.geeksforgeeks.org/genetic-algorithms/
+    \endverb
+  \endentry
+
+  \entry{Goodfellow-et-al-2016}{book}{}{}
+    \name{author}{3}{}{%
+      {{hash=GI}{%
+         family={Goodfellow},
+         familyi={G\bibinitperiod},
+         given={Ian},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Bengio},
+         familyi={B\bibinitperiod},
+         given={Yoshua},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Courville},
+         familyi={C\bibinitperiod},
+         given={Aaron},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MIT Press}%
+    }
+    \strng{namehash}{GIBYCA1}
+    \strng{fullhash}{GIBYCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{note}{\url{http://www.deeplearningbook.org}}
+    \field{title}{Deep Learning}
+    \field{year}{2016}
+  \endentry
+
+  \entry{GA1}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=HTLTN}{%
+         family={Hiếu},
+         familyi={H\bibinitperiod},
+         given={ThS. Lê Thị\bibnamedelima Ngọc},
+         giveni={T\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim
+  T\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HTLTN1}
+    \strng{fullhash}{HTLTN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Giải bài toán tối ưu bằng giải thuật di
+  truyền}
+    \verb{url}
+    \verb https://dnpu.edu.vn/upload/elfinder/T%E1%BA%A1p%20ch%C3%AD%20khoa%20h
+    \verb %E1%BB%8Dc/TCKH%20xu%E1%BA%A5t%20b%E1%BA%A3n/TCKH%20s%E1%BB%91%201/10
+    \verb ._85-93.pdf
+    \endverb
+    \field{year}{2016}
+  \endentry
+
+  \entry{kak1993training}{article}{}{}
+    \name{author}{1}{}{%
+      {{hash=KS}{%
+         family={Kak},
+         familyi={K\bibinitperiod},
+         given={Subhash},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{KS1}
+    \strng{fullhash}{KS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{35\bibrangedash 42}
+    \field{title}{On training feedforward neural networks}
+    \field{volume}{40}
+    \field{journaltitle}{Pramana}
+    \field{year}{1993}
+  \endentry
+
+  \entry{AIS1}{article}{}{}
+    \name{author}{2}{}{%
+      {{hash=KO}{%
+         family={Kilic},
+         familyi={K\bibinitperiod},
+         given={Ozlem},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=NQM}{%
+         family={Nguyen},
+         familyi={N\bibinitperiod},
+         given={Quang\bibnamedelima M},
+         giveni={Q\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {EMW Publishing}%
+    }
+    \strng{namehash}{KONQM1}
+    \strng{fullhash}{KONQM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{1\bibrangedash 17}
+    \field{title}{Application of artificial immune system algorithm to
+  electromagnetics problems}
+    \field{volume}{20}
+    \field{journaltitle}{Progress in Electromagnetics Research B}
+    \field{year}{2010}
+  \endentry
+
+  \entry{GA5_Overview}{inproceedings}{}{}
+    \name{author}{1}{}{%
+      {{hash=MM}{%
+         family={Mitchell},
+         familyi={M\bibinitperiod},
+         given={Melanie},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Citeseer}%
+    }
+    \strng{namehash}{MM1}
+    \strng{fullhash}{MM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Complex.}
+    \field{number}{1}
+    \field{pages}{31\bibrangedash 39}
+    \field{title}{Genetic algorithms: An overview.}
+    \field{volume}{1}
+    \field{year}{1995}
+  \endentry
+
+  \entry{montana1989training}{inproceedings}{}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{2}{}{%
+      {{hash=MDJ}{%
+         family={Montana},
+         familyi={M\bibinitperiod},
+         given={David\bibnamedelima J},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={Davis},
+         familyi={D\bibinitperiod},
+         given={Lawrence},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MDJDL+1}
+    \strng{fullhash}{MDJDL+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{IJCAI}
+    \field{number}{1989}
+    \field{pages}{762\bibrangedash 767}
+    \field{title}{Training feedforward neural networks using genetic
+  algorithms.}
+    \field{volume}{89}
+    \field{year}{1989}
+  \endentry
+
+  \entry{NaturalSelection}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Natural Selection}
+    \verb{url}
+    \verb https://en.wikipedia.org/wiki/Natural_selection
+    \endverb
+  \endentry
+
+  \entry{whatIsChronosome}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{N}
+    \field{sortinithash}{N}
+    \field{title}{Nhiễm sắc thể}
+    \verb{url}
+    \verb https://vi.wikipedia.org/wiki/Nhi%E1%BB%85m_s%E1%BA%AFc_th%E1%BB%83
+    \endverb
+  \endentry
+
+  \entry{AIS2}{article}{}{}
+    \name{author}{4}{}{%
+      {{hash=SB}{%
+         family={Schmidt},
+         familyi={S\bibinitperiod},
+         given={Brian},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=AFA}{%
+         family={Al-Fuqaha},
+         familyi={A\bibinithyphendelim F\bibinitperiod},
+         given={Ala},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={Ajay},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KD}{%
+         family={Kountanis},
+         familyi={K\bibinitperiod},
+         given={Dionysios},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{SB+1}
+    \strng{fullhash}{SBAFAGAKD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{pages}{1\bibrangedash 22}
+    \field{title}{Optimizing an artificial immune system algorithm in support
+  of flow-Based internet traffic classification}
+    \field{volume}{54}
+    \field{journaltitle}{Applied Soft Computing}
+    \field{year}{2017}
+  \endentry
+
+  \entry{GA2}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=TLD}{%
+         family={Tien},
+         familyi={T\bibinitperiod},
+         given={Le\bibnamedelima Duc},
+         giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{TLD1}
+    \strng{fullhash}{TLD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Thuật toán di truyền - Ứng dụng giải một số
+  bài toán kinh điển (phần 1)}
+    \verb{url}
+    \verb https://viblo.asia/p/thuat-toan-di-truyen-ung-dung-giai-mot-so-bai-to
+    \verb an-kinh-dien-phan-1-RQqKLxJzK7z
+    \endverb
+  \endentry
+
+  \entry{evolutionProgramming}{book}{}{}
+    \name{author}{1}{}{%
+      {{hash=T�T}{%
+         family={TS.Nguyễn\bibnamedelima Đình},
+         familyi={T\bibinitperiod\bibinitdelim �\bibinitperiod},
+         given={Thúc},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{T�T1}
+    \strng{fullhash}{T�T1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{title}{Lập trình tiến hoá}
+    \verb{url}
+    \verb https://thuvienso.dau.edu.vn:88/handle/DHKTDN/6070
+    \endverb
+  \endentry
+
+  \entry{vaswani2023attentionneed}{misc}{}{}
+    \name{author}{8}{}{%
+      {{hash=VA}{%
+         family={Vaswani},
+         familyi={V\bibinitperiod},
+         given={Ashish},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SN}{%
+         family={Shazeer},
+         familyi={S\bibinitperiod},
+         given={Noam},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=PN}{%
+         family={Parmar},
+         familyi={P\bibinitperiod},
+         given={Niki},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=UJ}{%
+         family={Uszkoreit},
+         familyi={U\bibinitperiod},
+         given={Jakob},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JL}{%
+         family={Jones},
+         familyi={J\bibinitperiod},
+         given={Llion},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GAN}{%
+         family={Gomez},
+         familyi={G\bibinitperiod},
+         given={Aidan\bibnamedelima N.},
+         giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+      {{hash=KL}{%
+         family={Kaiser},
+         familyi={K\bibinitperiod},
+         given={Lukasz},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=PI}{%
+         family={Polosukhin},
+         familyi={P\bibinitperiod},
+         given={Illia},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VA+1}
+    \strng{fullhash}{VASNPNUJJLGANKLPI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \verb{eprint}
+    \verb 1706.03762
+    \endverb
+    \field{title}{Attention Is All You Need}
+    \verb{url}
+    \verb https://arxiv.org/abs/1706.03762
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CL}
+    \field{year}{2023}
+  \endentry
+
+  \entry{algorithmDefinition1}{online}{}{}
+    \name{author}{1}{}{%
+      {{hash=v}{%
+         family={vietcv},
+         familyi={v\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{v1}
+    \strng{fullhash}{v1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{V}
+    \field{sortinithash}{V}
+    \field{note}{Truy cập lúc 12:14AM ngày 5/3/2025}
+    \field{title}{Thuật toán là gì? Học thuật toán làm quái gì?}
+    \verb{url}
+    \verb https://codelearn.io/sharing/thuat-toan-la-gi-hoc-thuat-toan-lam-quai
+    \verb -gi
+    \endverb
+  \endentry
+
+  \entry{PSO}{article}{}{}
+    \name{author}{3}{}{%
+      {{hash=WD}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Dongshu},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=TD}{%
+         family={Tan},
+         familyi={T\bibinitperiod},
+         given={Dapei},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Lei},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{WDTDLL1}
+    \strng{fullhash}{WDTDLL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{number}{2}
+    \field{pages}{387\bibrangedash 408}
+    \field{title}{Particle swarm optimization algorithm: an overview}
+    \field{volume}{22}
+    \field{journaltitle}{Soft computing}
+    \field{year}{2018}
+  \endentry
+
+  \entry{algorithmDefinition2}{online}{}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{What is Algorithm | Introduction to Algorithms}
+    \verb{url}
+    \verb https://www.geeksforgeeks.org/introduction-to-algorithms/
+    \endverb
+  \endentry
+\enddatalist
+\endinput

@@ -1,0 +1,61 @@
+\documentclass[12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T5]{fontenc}
+\usepackage[vietnamese]{babel}
+\usepackage{graphicx}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage[backend=bibtex]{biblatex}
+
+\addbibresource{references.bib}
+
+% Title Page
+\title{Thuật toán di truyền, Feedforward Neural Network và góc nhìn lập trình}
+\author{Nguyễn Đức Bảo Lâm}
+
+\begin{document}
+\maketitle 
+
+\tableofcontents
+\pagebreak
+
+\begin{abstract}
+	Bài viết này của em sẽ tập trung vào trả lời câu hỏi \hypertarget{main_question}{Người lập trình có thể lấy ý tưởng từ đâu?} Qua đó, khẳng định vai trò và thiết lập lại vị trí của toán học trong thuật toán và lập trình. Ngoài ra, bài này của em cũng sẽ tập trung vào ứng dụng thuật toán di truyền, mạng Neural Network cho tìm kiếm một chiến lược sinh tồn phù hợp cho môi trường biến động (một vấn đề ứng dụng).
+\end{abstract}
+
+\section{Người lập trình có thể lấy ý tưởng từ đâu?}
+\input{question.tex}
+
+\section{Vậy thì thuật toán là gì?}
+\label{sec:algorithm}
+\input{algorithm.tex}
+
+\section{Thuật toán trong góc nhìn sinh học}
+\input{biology.tex}
+
+\section{Tìm hiểu về thuật toán di truyền và trả lời câu hỏi trên}
+\input{genetic_algorithm.tex}
+
+\section{Mạng Feedforward Neural Network (FNN) và mạng Artificial Neural Network (ANN)}
+\input{FNN.tex}
+
+\section{Tính kết nối giữa GA và FNN}
+\input{GA_FNN_Relationship.tex}
+
+\section{Ứng dụng GA, FNN vào tìm kiếm chiến lược sinh tồn của sinh vật}
+\input{GA_FNN_Application.tex}
+ 	
+\section{Kết luận}
+	Thông qua phân tích và trả lời câu hỏi, em mong bài viết này đem đến một góc nhìn rõ ràng hơn về vai trò của người lập trình, quy trình tiếp thu và xử lí ý tưởng cũng như thiết lập vai trò của toán học trong lập trình.
+	
+	Bài viết triển khai từ những ý tưởng chung nhất đến ý tưởng riêng và cô lập hơn. Mẫu hình triển khai này có thể được dùng cho việc tìm lời giải cho vấn đề.
+	
+	Ngoài ra, qua quá trình phân tích, bài viết đi đến kết luận là AI cũng là một dạng thuật toán nên với vai trò là một người lập trình, chúng ta nên khai thác AI hiệu quả hơn nữa.
+ 	
+ 	Bài viết tập trung nhiều vào việc chứng minh câu hỏi chủ đề và xác lập những hệ quả có ý nghĩa của câu hỏi đó nên những nội dung mà em đề cập sẽ có những mục chưa đủ độ sâu nên em dùng thêm phần Tài liệu để mở rộng thêm.
+ 	
+\printbibliography
+
+\end{document}          

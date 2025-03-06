@@ -1,0 +1,26 @@
+\babel@toc {vietnamese}{}\relax 
+\contentsline {section}{\numberline {1}Người lập trình có thể lấy ý tưởng từ đâu?}{3}{section.1}%
+\contentsline {section}{\numberline {2}Vậy thì thuật toán là gì?}{3}{section.2}%
+\contentsline {section}{\numberline {3}Thuật toán trong góc nhìn sinh học}{4}{section.3}%
+\contentsline {subsubsection}{\numberline {3.0.1}Di truyền, ADN và nhiễm sắc thể}{4}{subsubsection.3.0.1}%
+\contentsline {section}{\numberline {4}Tìm hiểu về thuật toán di truyền và trả lời câu hỏi trên}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Nền tảng Genetic Algorithm (GA)}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Triển khai ở góc nhìn thuật toán}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Câu trả lời của thuật toán}{7}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Mã giả thuật toán}{8}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Mạng Feedforward Neural Network (FNN) và mạng Artificial Neural Network (ANN)}{9}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Lịch sử phát triển của AI}{9}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Ý nghĩa của AI trong bài viết này}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Mối quan hệ giữa AI và thuật toán}{9}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}AI, thuật toán và FNN}{10}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}FNN}{11}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Tính kết nối giữa GA và FNN}{12}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Ở phạm vi con người}{12}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Thử khai thác dấu ?}{13}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Ứng dụng GA, FNN vào tìm kiếm chiến lược sinh tồn của sinh vật}{14}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Mô tả vấn đề}{14}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Biện luận một số thành phần trong mô tả vấn đề}{14}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Ý tưởng triển khai}{15}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Chi tiết một số thành phần thuật toán GA}{15}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Kết quả thực thi thuật toán}{16}{subsection.7.5}%
+\contentsline {section}{\numberline {8}Kết luận}{17}{section.8}%

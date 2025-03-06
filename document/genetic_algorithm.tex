@@ -1,0 +1,76 @@
+Việc khai thác câu hỏi trên chính là việc cần đưa tính hướng dẫn đáp ứng tính chất thứ hai mà định nghĩa thuật toán (~\ref{sec:algorithm}) đã nêu. Đó là tính chất giải quyết vấn đề/bài toán.
+
+Trong thực tế, nhiều thuật toán đã dựa trên các đối tượng sinh học để giải quyết yêu cầu đặt ra. Một trong số những thuật toán có thể kể đến như:
+\begin{itemize}
+	\item Thuật toán tối ưu đàn kiến (Ant Colony Optimization) \cite{AntColony}. Một thuật toán dựa trên hành vi tìm đường của quần thể kiến trong tự nhiên.
+	
+	\item Thuật toán tối ưu bầy hạt ((Particle Swarm Optimization) \cite{PSO}. Thuật toán cũng dựa trên hành vi di chuyển và tìm kiếm thức ăn của các đàn chim và đàn cá.
+	
+	\item Thuật toán sinh học miễn dịch (Artificial Immune System) \cite{AIS1} \cite{AIS2}. Một thuật toán lấy ý tưởng từ hệ thống miễn dịch của con người.
+	
+	\item và còn nhiều thuật toán khác nữa...
+\end{itemize}
+
+Về cơ bản, những dẫn chứng em cung cấp ở trên là một phần minh chứng cho câu hỏi lớn mà bài viết của em muốn khai thác. Tuy nhiên, hệ quả của câu hỏi đó mới là quan trọng. Ở mục này em xin bàn luận thêm sâu hơn về thuật toán di truyền xem như câu trả lời cho câu hỏi làm sao để áp dụng ý tưởng đó vào lập trình.
+
+\subsection{Nền tảng Genetic Algorithm (GA)}
+Thuật toán di truyền là một thuật toán lấy ý tưởng từ quá trình tiến hoá trong tự nhiên. Chính xác hơn, đây là thuật toán mô phỏng quá trình ấy và là một thuật toán tối ưu.
+
+Quá trình tiến hoá trong tự nhiên còn hiểu là quá trình chọn lọc tự nhiên \cite{NaturalSelection}. Đây là quá trình mà những cá thể mang khả năng thích nghi (fitness) cao với môi trường sẽ có nhiều khả năng tồn tại và duy trì nòi giống để tạo ra thế hệ sau. Kết quả của quá trình này là qua nhiều thế hệ, thế hệ sau có khả năng cao sẽ mang những gen thích nghi tốt với môi trường.
+
+Diễn giải thêm cho quá trình trên, \textbf{môi trường} và \textbf{di truyền} là hai yếu tố chi phối chủ đạo.
+
+Phân tích thêm cho quá trình, ngoài hai yếu tố chi phối trên, quá trình này hoạt động trên một quần thể (một tập hợp các cá thể).
+
+Như vậy, từ ý tưởng thô sơ là quá trình chọn lọc tự nhiên. Sau quá trình phân tích để xác định các yếu tố, bước tiếp theo là mình cần chuyển các yếu tố ấy thành mã lập trình dưới góc nhìn của \textbf{toán học}.
+
+\subsection{Triển khai ở góc nhìn thuật toán}
+Do bản chất của máy tính là tính toán nên mình phải cần nhìn vấn đề dưới góc nhìn của một người lập trình. Ở góc nhìn này, ta sẽ trả lời cho khía cạnh thứ hai của định nghĩa thuật toán (giải quyết vấn đề).
+
+Máy tính còn mang tính tất định. Những yếu tố mô tả ở trên còn tương đối mơ hồ. Như vậy, sự rõ ràng của những khái niệm trên phải được xác lập. Dưới đây là những câu hỏi dùng để làm rõ thêm thuật toán di truyền.
+\begin{itemize}
+	\item Làm sao phản ánh được môi trường vào trong di truyền?
+	\item Di truyền còn tương đối mơ hồ, làm sao để đảm bảo sự rõ ràng ở đây?
+	\item Việc cài đặt quần thể là cài đặt như thế nào?
+	\item Phản ánh giữa thuật toán và di truyền sẽ ra sao?
+\end{itemize}
+
+\subsection{Câu trả lời của thuật toán}
+Trong GA, việc phản ánh môi trường vào trong di truyền được trả lời thông qua hàm fitness (hàm đánh giá độ thích nghi).
+
+Ngoài phản ánh qua hàm fitness, môi trường còn phản ánh thông qua Selection. Selection hoạt động dựa trên giá trị thích nghi. Những cá thể có điểm thích nghi cao sẽ có khả năng giữ được phần gen của mình và truyền cho thế hệ sau. Selection còn có thể coi là một toán tử trong môi trường.
+
+Di truyền ở mức độ chi tiết hơn ngoài \ref{fig:genetic_illustration_diagram} còn có thêm một số yếu tố sau để có thể triển khai thuật toán:
+\begin{itemize}
+	\item Lai ghép (Crossover). Hiểu là trao đổi thông tin di truyền ở giữa hai cá thể. Còn có thể hiểu thêm, việc tiến hành lai ghép là việc yêu cầu hai cá thể trong quần thể thực hiện sinh sản để cho ra cá thể con. Cá thể con sẽ mang một phần/toàn phần thông tin di truyền từ hai cá thể tổ tiên (có thể xem như cha và mẹ).
+	\item  Đột biến (Mutation). Trong di truyền, quá trình đột biến xảy ra tương đối. Ở quá trình chọn lọc tự nhiên, đột biến đem đến sự đa dạng cho nguồn gen di truyền.
+	\item  ADN/NST. Đây chính là mã di truyền. Đối với giải quyết vấn đề/bài toán thì ADN/NST chính là \textbf{lời giải tiềm năng}.  
+\end{itemize}
+
+Câu hỏi về cài đặt quần thể. Trong lập trình, điều này có thể được mô phỏng dưới dạng một tập hợp các mã di truyền. Ở góc độ lập trình, điều này đồng nghĩa với việc mình đang duy trì một tập lời giải.
+
+Phản ánh giữa thuật toán và di truyền là mối quan hệ phản ánh đến từ việc nhìn các mã di truyền là lời giải cho vấn đề được nêu. Điều này dẫn đến hệ quả các phép toán như Crossover, Mutation sẽ đóng vai trò như việc trao đổi lời giải và đột ngột phát sinh ý tưởng mới.
+
+\subsection{Mã giả thuật toán}
+Qua những mục được đề cập trên, mã giả của thuật toán sẽ như sau:
+\begin{algorithm}
+	\caption{Thuật toán di truyền (GA)}
+	\begin{algorithmic}[1]
+		\State Khởi tạo quần thể $P$
+		\State Đánh giá độ thích nghi cho từng cá thể trong $P$
+		\While{Thoả điều kiện dừng} 
+		\State Chọn cá thể trong $P$ dựa trên fitness
+		\State Tiến hành lai ghép (Crossover) để tạo con cháu
+		\State Thêm đột biến (Mutation)
+		\State Tính thích nghi (dùng hàm Fitness) cho con cháu
+		\State Chọn (Selection) thế hệ tiếp theo từ $P$ và con cháu
+		\EndWhile
+		\State Trả về cá thể tốt nhất
+	\end{algorithmic}
+\end{algorithm}
+
+\noindent
+Và ngoài ra, thuật toán di truyền cũng là một phần của lập trình tiến hoá (Evolution Programming) \cite{evolutionProgramming} cùng với một số thuật toán khác như Chiến lược tiến hoá (Evolution Strategy) \cite{EvolutionStrategy}, thuật toán di truyền vi phân (Differential Evolution) \cite{DifferientalEvolution1} \cite{DifferientalEvolution2}, ...
+
+\par
+Mục nội dung này được viết là dựa trên các nguồn \cite{GA1} \cite{GA2} \cite{GA3} \cite{GA4} \cite{GA5_Overview}
