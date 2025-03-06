@@ -46,6 +46,8 @@ trong môi trường biến động
 
 ## Thực thi ví dụ
 
-- Chỉ muốn chạy thuật toán cơ bản: python run_algorithm_local.py
+- Chạy thuật toán cơ bản: python run_algorithm_local.py. Và sau đó dùng node server.js để hiển thị thêm một số thông tin
 
-- Chạy đầy đủ và có giao diện hiển thị: illustration.bat rùi truy cập http://localhost:3000 ::)) (không bị hack đâu)
+- python algorithm.py : chưa hoàn thiện nên khuyến khích không nên chạy
+
+- illustration.bat : thực thi algorithm.py và server.js (do chức năng chưa được hoàn thiện nên không khuyến khích chạy)
