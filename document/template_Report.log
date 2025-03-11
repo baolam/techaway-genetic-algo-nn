@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.5)  6 MAR 2025 12:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.5)  11 MAR 2025 11:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -756,7 +756,7 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 
 \@quotelevel=\count432
 \@quotereset=\count433
-(template_Report.aux)
+(template_Report.aux (illustration.aux))
 \openout1 = `template_Report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
@@ -779,7 +779,8 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
 LaTeX Font Info:    ... okay on input line 18.
- (D:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+
+(D:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count434
 \scratchdimen=\dimen158
@@ -839,7 +840,7 @@ Package biblatex Info: Reference segment=0 on input line 18.
 [2] (question.tex) (algorithm.tex
 
 [3]
-<figures/general_algorithm_diagram.png, id=153, 387.4475pt x 81.30376pt>
+<figures/general_algorithm_diagram.png, id=165, 387.4475pt x 81.30376pt>
 File: figures/general_algorithm_diagram.png Graphic file (type png)
 <use figures/general_algorithm_diagram.png>
 Package pdftex.def Info: figures/general_algorithm_diagram.png  used on input l
@@ -850,7 +851,7 @@ ine 7.
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
 (hyperref)                than one, level fixed on input line 3.
 
-<figures/genetic_illustration_diagram.png, id=158, 553.06625pt x 322.20375pt>
+<figures/genetic_illustration_diagram.png, id=170, 553.06625pt x 322.20375pt>
 File: figures/genetic_illustration_diagram.png Graphic file (type png)
 <use figures/genetic_illustration_diagram.png>
 Package pdftex.def Info: figures/genetic_illustration_diagram.png  used on inpu
@@ -860,6 +861,9 @@ t line 13.
 Overfull \hbox (0.73033pt too wide) in paragraph at lines 13--14
  [][] 
  []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
@@ -877,7 +881,7 @@ put line 57.
 [8]
 
 [9]
-<figures/ai_fnn_algorithm.png, id=231, 619.31375pt x 383.4325pt>
+<figures/ai_fnn_algorithm.png, id=241, 619.31375pt x 383.4325pt>
 File: figures/ai_fnn_algorithm.png Graphic file (type png)
 <use figures/ai_fnn_algorithm.png>
 Package pdftex.def Info: figures/ai_fnn_algorithm.png  used on input line 31.
@@ -887,7 +891,7 @@ Package pdftex.def Info: figures/ai_fnn_algorithm.png  used on input line 31.
 [10 <./figures/ai_fnn_algorithm.png>]
 
 [11]
-<figures/fnn.illustration.png, id=249, 853.1875pt x 481.8pt>
+<figures/fnn.illustration.png, id=259, 853.1875pt x 481.8pt>
 File: figures/fnn.illustration.png Graphic file (type png)
 <use figures/fnn.illustration.png>
 Package pdftex.def Info: figures/fnn.illustration.png  used on input line 68.
@@ -895,7 +899,7 @@ Package pdftex.def Info: figures/fnn.illustration.png  used on input line 68.
 ) (GA_FNN_Relationship.tex
 
 [12 <./figures/fnn.illustration.png>]
-<figures/thought_and_genetic.png, id=260, 396.48125pt x 182.6825pt>
+<figures/thought_and_genetic.png, id=270, 396.48125pt x 182.6825pt>
 File: figures/thought_and_genetic.png Graphic file (type png)
 <use figures/thought_and_genetic.png>
 Package pdftex.def Info: figures/thought_and_genetic.png  used on input line 12
@@ -918,45 +922,61 @@ Overfull \hbox (118.7082pt too wide) detected at line 45
 
 
 [15]
-<figures/env_infor.png, id=282, 323.2075pt x 157.08687pt>
+<figures/crossover.png, id=291, 563.10374pt x 354.32375pt>
+File: figures/crossover.png Graphic file (type png)
+<use figures/crossover.png>
+Package pdftex.def Info: figures/crossover.png  used on input line 52.
+(pdftex.def)             Requested size: 281.55118pt x 177.16144pt.
+<figures/env_infor.png, id=293, 323.2075pt x 157.08687pt>
 File: figures/env_infor.png Graphic file (type png)
 <use figures/env_infor.png>
-Package pdftex.def Info: figures/env_infor.png  used on input line 59.
+Package pdftex.def Info: figures/env_infor.png  used on input line 66.
 (pdftex.def)             Requested size: 323.20671pt x 157.08647pt.
-<figures/result.png, id=283, 578.16pt x 410.53375pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/result.png, id=294, 578.16pt x 410.53375pt>
 File: figures/result.png Graphic file (type png)
 <use figures/result.png>
-Package pdftex.def Info: figures/result.png  used on input line 67.
+Package pdftex.def Info: figures/result.png  used on input line 74.
 (pdftex.def)             Requested size: 346.89867pt x 246.32214pt.
 
 
-[16 <./figures/env_infor.png>])
+[16 <./figures/crossover.png>]
 
-[17 <./figures/result.png>]
-LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 5
-9.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 6
+0.
  (D:\MiKTeX\tex/latex/vntex\t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (0.74046pt too wide) in paragraph at lines 60--60
+
+[17 <./figures/env_infor.png>]
+Overfull \hbox (0.74046pt too wide) in paragraph at lines 61--61
 []\T5/cmr/m/it/12 Differiential Evo-lu-tion Al-go-rithm\T5/cmr/m/n/12 . \T5/cmr
 /m/sc/12 url\T5/cmr/m/n/12 : []$\T5/cmtt/m/n/12 https : / / www . sciencedirect
  .
  []
 
 
-Overfull \hbox (24.2797pt too wide) in paragraph at lines 60--60
+Overfull \hbox (24.2797pt too wide) in paragraph at lines 61--61
 \T5/cmtt/m/n/12 com / topics / computer -[] science / differential -[] evolutio
 n -[] algorithm# :
  []
 
 
+
+[18 <./figures/result.png>]
+
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'AntColony' on input line 59.
+(biblatex)                at entry 'AntColony' on input line 60.
 
 
 Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'AntColony' on input line 59.
+(biblatex)                at entry 'AntColony' on input line 60.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -967,30 +987,30 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'AntColony' on input line 59.
+(biblatex)                at entry 'AntColony' on input line 60.
 
 
-Overfull \hbox (11.85443pt too wide) in paragraph at lines 60--60
+Overfull \hbox (11.85443pt too wide) in paragraph at lines 61--61
 []\T5/cmr/m/it/12 Evolution Strat-egy\T5/cmr/m/n/12 . \T5/cmr/m/sc/12 url\T5/cm
 r/m/n/12 : []$\T5/cmtt/m/n/12 https : / / en . wikipedia . org / wiki / Evoluti
 on _
  []
 
 
-Overfull \hbox (19.6062pt too wide) in paragraph at lines 60--60
+Overfull \hbox (19.6062pt too wide) in paragraph at lines 61--61
 \T5/cmtt/m/n/12 figure / Feedforward -[] Neural -[] Network -[] Feedforward -[]
  Neural -[] Network -[]
  []
 
 
-Overfull \hbox (0.34888pt too wide) in paragraph at lines 60--60
+Overfull \hbox (0.34888pt too wide) in paragraph at lines 61--61
 []\T5/cmr/m/it/12 Genetic Al-go-rithm\T5/cmr/m/n/12 . \T5/cmr/m/sc/12 url\T5/cm
 r/m/n/12 : []$\T5/cmtt/m/n/12 https : / / en . wikipedia . org / wiki / Genetic
  _
  []
 
 
-Overfull \hbox (5.6477pt too wide) in paragraph at lines 60--60
+Overfull \hbox (5.6477pt too wide) in paragraph at lines 61--61
 []\T5/cmr/m/it/12 Genetic Al-go-rithms\T5/cmr/m/n/12 . \T5/cmr/m/sc/12 url\T5/c
 mr/m/n/12 : []$\T5/cmtt/m/n/12 https : / / www . geeksforgeeks . org / genetic 
 -[]
@@ -998,7 +1018,7 @@ mr/m/n/12 : []$\T5/cmtt/m/n/12 https : / / www . geeksforgeeks . org / genetic
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'Goodfellow-et-al-2016' on input line 59.
+(biblatex)                at entry 'Goodfellow-et-al-2016' on input line 60.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1007,9 +1027,6 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 (biblatex)                loaded, is faulty or does not contain a definition
 (biblatex)                for \mkbibdatelong.
 
-
-
-[18]
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 (biblatex)                The command should be defined in the .lbx file.
@@ -1019,7 +1036,7 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'kak1993training' on input line 59.
+(biblatex)                at entry 'kak1993training' on input line 60.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1030,15 +1047,15 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'kak1993training' on input line 59.
+(biblatex)                at entry 'kak1993training' on input line 60.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'AIS1' on input line 59.
+(biblatex)                at entry 'AIS1' on input line 60.
 
 
 Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'AIS1' on input line 59.
+(biblatex)                at entry 'AIS1' on input line 60.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1049,15 +1066,15 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'AIS1' on input line 59.
+(biblatex)                at entry 'AIS1' on input line 60.
 
 
 Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'GA5_Overview' on input line 59.
+(biblatex)                at entry 'GA5_Overview' on input line 60.
 
 
 Package biblatex Warning: Bibliography string 'volume' untranslated
-(biblatex)                at entry 'GA5_Overview' on input line 59.
+(biblatex)                at entry 'GA5_Overview' on input line 60.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1068,25 +1085,25 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'GA5_Overview' on input line 59.
+(biblatex)                at entry 'GA5_Overview' on input line 60.
 
 
-Overfull \hbox (25.51303pt too wide) in paragraph at lines 60--60
+Overfull \hbox (25.51303pt too wide) in paragraph at lines 61--61
 []\T5/cmr/m/n/12 Melanie Mitchell. ``Ge-netic al-go-rithms: An overview.'' []\T
 5/cmr/m/it/12 Complex. [] \T5/cmr/m/n/12 1.
  []
 
 
 Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'montana1989training' on input line 59.
+(biblatex)                at entry 'montana1989training' on input line 60.
 
 
 Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'montana1989training' on input line 59.
+(biblatex)                at entry 'montana1989training' on input line 60.
 
 
 Package biblatex Warning: Bibliography string 'volume' untranslated
-(biblatex)                at entry 'montana1989training' on input line 59.
+(biblatex)                at entry 'montana1989training' on input line 60.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1097,15 +1114,18 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'montana1989training' on input line 59.
+(biblatex)                at entry 'montana1989training' on input line 60.
 
+
+
+[19]
 
 Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'AIS2' on input line 59.
+(biblatex)                at entry 'AIS2' on input line 60.
 
 
 Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'AIS2' on input line 59.
+(biblatex)                at entry 'AIS2' on input line 60.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1116,17 +1136,17 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'AIS2' on input line 59.
+(biblatex)                at entry 'AIS2' on input line 60.
 
 
-Overfull \hbox (7.9646pt too wide) in paragraph at lines 60--60
+Overfull \hbox (7.9646pt too wide) in paragraph at lines 61--61
 \T5/cmr/m/n/12 go-rithm in sup-port of flow-Based in-ter-net traf-fic clas-si-f
 i-ca-tion''. []\T5/cmr/m/it/12 Applied
  []
 
 
 Package biblatex Warning: Bibliography string 'andothers' untranslated
-(biblatex)                at entry 'vaswani2023attentionneed' on input line 59.
+(biblatex)                at entry 'vaswani2023attentionneed' on input line 60.
 
 
 
@@ -1138,11 +1158,11 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'and' untranslated
-(biblatex)                at entry 'PSO' on input line 59.
+(biblatex)                at entry 'PSO' on input line 60.
 
 
 Package biblatex Warning: Bibliography string 'in' untranslated
-(biblatex)                at entry 'PSO' on input line 59.
+(biblatex)                at entry 'PSO' on input line 60.
 
 
 Package biblatex Warning: Using fallback definition for \mkbibdatelong.
@@ -1153,28 +1173,47 @@ Package biblatex Warning: Using fallback definition for \mkbibdatelong.
 
 
 Package biblatex Warning: Bibliography string 'pages' untranslated
-(biblatex)                at entry 'PSO' on input line 59.
+(biblatex)                at entry 'PSO' on input line 60.
 
 
 
-[19]
+[20]
+\openout2 = `illustration.aux'.
 
-[20] (template_Report.aux)
+ (illustration.tex
+<figures/creature_relationship.png, id=373, 717.17938pt x 375.4025pt>
+File: figures/creature_relationship.png Graphic file (type png)
+<use figures/creature_relationship.png>
+Package pdftex.def Info: figures/creature_relationship.png  used on input line 
+39.
+(pdftex.def)             Requested size: 358.58882pt x 187.70079pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)
+
+[21
+
+]
+
+[22 <./figures/creature_relationship.png>] (template_Report.aux
+(illustration.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `template_Report.out' has not changed.
-(rerunfilecheck)             Checksum: CFB170CDF3AC550C42620830308F9FA4;6027.
+(rerunfilecheck)             Checksum: BBA5452C70B31F74837B740313632A24;6293.
 Package logreq Info: Writing requests to 'template_Report.run.xml'.
 \openout1 = `template_Report.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18470 strings out of 473523
- 319252 string characters out of 5731486
- 901038 words of memory out of 5000000
- 41388 multiletter control sequences out of 15000+600000
+ 18523 strings out of 473523
+ 320391 string characters out of 5731486
+ 902616 words of memory out of 5000000
+ 41426 multiletter control sequences out of 15000+600000
  577591 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,8n,81p,1863b,1561s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1188,9 +1227,9 @@ vnr/vnbx12.pfb><D:/MiKTeX/fonts/type1/vntex/vnr/vncsc10.pfb><D:/MiKTeX/fonts/ty
 pe1/vntex/vnr/vnr10.pfb><D:/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><D:/MiKTeX/f
 onts/type1/vntex/vnr/vnr17.pfb><D:/MiKTeX/fonts/type1/vntex/vnr/vnti12.pfb><D:/
 MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on template_Report.pdf (20 pages, 434666 bytes).
+Output written on template_Report.pdf (22 pages, 521070 bytes).
 PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
- 86 named destinations out of 1000 (max. 500000)
- 236 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 470 PDF objects out of 1000 (max. 8388607)
+ 94 named destinations out of 1000 (max. 500000)
+ 262 words of extra memory for PDF output out of 10000 (max. 10000000)
 

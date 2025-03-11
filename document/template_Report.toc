@@ -3,7 +3,7 @@
 \contentsline {section}{\numberline {2}Vậy thì thuật toán là gì?}{3}{section.2}%
 \contentsline {section}{\numberline {3}Thuật toán trong góc nhìn sinh học}{4}{section.3}%
 \contentsline {subsubsection}{\numberline {3.0.1}Di truyền, ADN và nhiễm sắc thể}{4}{subsubsection.3.0.1}%
-\contentsline {section}{\numberline {4}Tìm hiểu về thuật toán di truyền và trả lời câu hỏi trên}{6}{section.4}%
+\contentsline {section}{\numberline {4}Tìm hiểu về thuật toán di truyền và trả lời câu hỏi trên}{5}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Nền tảng Genetic Algorithm (GA)}{6}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Triển khai ở góc nhìn thuật toán}{7}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Câu trả lời của thuật toán}{7}{subsection.4.3}%
@@ -24,3 +24,5 @@
 \contentsline {subsection}{\numberline {7.4}Chi tiết một số thành phần thuật toán GA}{15}{subsection.7.4}%
 \contentsline {subsection}{\numberline {7.5}Kết quả thực thi thuật toán}{16}{subsection.7.5}%
 \contentsline {section}{\numberline {8}Kết luận}{17}{section.8}%
+\contentsline {section}{\numberline {9}Tham khảo thêm}{18}{section.9}%
+\contentsline {section}{\numberline {10}Minh hoạ bổ sung}{20}{section.10}%
